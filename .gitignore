@@ -1,10 +1,12 @@
 .idea
 *.iml
-myhosts
-blacklist
-whitelist
+# myhosts
+# blacklist
+# whitelist
 readmeData.json
 hosts-*
 /web.config
 /__pycache__
 /node_modules
+sc-hosts/hosts
+# data/
