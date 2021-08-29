@@ -1,4 +1,6 @@
 # SC Custom Records
+192.168.50.99  chongs1
+
 127.0.0.1  public.lab
 127.0.0.1  service.lab
 127.0.0.1  intranet.lab
