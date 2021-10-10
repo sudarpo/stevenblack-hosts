@@ -1,5 +1,6 @@
 .idea
 *.iml
+<<<<<<< HEAD
 # myhosts
 # blacklist
 # whitelist
@@ -7,6 +8,7 @@ readmeData.json
 hosts-*
 /web.config
 /__pycache__
-/node_modules
 sc-hosts/hosts
 # data/
+/node_modules/
+/package-lock.json
