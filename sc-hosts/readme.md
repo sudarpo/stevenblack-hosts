@@ -34,4 +34,5 @@ python3 updateHostsFile.py --auto --extensions porn fakenews gambling social --n
 sudo cp sc-hosts/hosts /private/etc/hosts
 
 sudo dscacheutil -flushcache;sudo killall -HUP mDNSResponder
+
 ```
