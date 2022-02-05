@@ -2,8 +2,8 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 20 Jan 2022 13:28:02 GMT
-# entries:        3676
+# last updated:   Mon, 31 Jan 2022 15:25:00 GMT
+# entries:        3680
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Sun, 27 Jan 2002 00:00:00
+# start date:    Wed, 06 Feb 2002 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -2300,6 +2300,7 @@
 0.0.0.0 matheranalytics.com
 0.0.0.0 mathtag.com
 0.0.0.0 matomo.activate.cz
+0.0.0.0 matomo.crossiety.app
 0.0.0.0 matomo.gals24.ru
 0.0.0.0 matomo.hdweb.ru
 0.0.0.0 matomo.kmkb.ru
@@ -3213,6 +3214,8 @@
 0.0.0.0 t.leady.com
 0.0.0.0 t.news.browns-restaurants.co.uk
 0.0.0.0 t.salesmatemail.com
+0.0.0.0 t.vacations.disneydestinations.com
+0.0.0.0 t.visit.disneydestinations.com
 0.0.0.0 t.visitorqueue.com
 0.0.0.0 taboola.com
 0.0.0.0 tag.links-analytics.com
@@ -3435,6 +3438,7 @@
 0.0.0.0 trk42.net
 0.0.0.0 trkn.us
 0.0.0.0 trknths.com
+0.0.0.0 trkoptimizer.com
 0.0.0.0 trmit.com
 0.0.0.0 truckstomatoes.com
 0.0.0.0 truehits.net
