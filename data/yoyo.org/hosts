@@ -2,7 +2,7 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Fri, 04 Feb 2022 22:38:06 GMT
+# last updated:   Thu, 24 Feb 2022 09:03:54 GMT
 # entries:        3673
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
@@ -11,7 +11,7 @@
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Mon, 18 Feb 2002 00:00:00
+# start date:    Sun, 03 Mar 2002 00:00:00
 0.0.0.0 1-1ads.com
 0.0.0.0 101com.com
 0.0.0.0 101order.com
@@ -74,6 +74,8 @@
 0.0.0.0 abandonedaction.com
 0.0.0.0 abc-ads.com
 0.0.0.0 ablink.comms.trainline.com
+0.0.0.0 ablink.news.emails-puregym.com
+0.0.0.0 ablinks.mail.hinge.co
 0.0.0.0 aboardlevel.com
 0.0.0.0 aboutads.gr
 0.0.0.0 abruptroad.com
@@ -253,7 +255,6 @@
 0.0.0.0 adformdsp.net
 0.0.0.0 adfs.senacrs.com.br
 0.0.0.0 adgardener.com
-0.0.0.0 adgoto.com
 0.0.0.0 adhaven.com
 0.0.0.0 adhese.be
 0.0.0.0 adhese.com
@@ -418,7 +419,6 @@
 0.0.0.0 ads.brabys.com
 0.0.0.0 ads.brazzers.com
 0.0.0.0 ads.bumq.com
-0.0.0.0 ads.businessweek.com
 0.0.0.0 ads.canalblog.com
 0.0.0.0 ads.casinocity.com
 0.0.0.0 ads.casumoaffiliates.com
@@ -777,7 +777,6 @@
 0.0.0.0 adserver.echdk.pl
 0.0.0.0 adserver.friendfinder.com
 0.0.0.0 adserver.generationiron.com
-0.0.0.0 adserver.gilligan.tech
 0.0.0.0 adserver.html.it
 0.0.0.0 adserver.hwupgrade.it
 0.0.0.0 adserver.ilango.de
@@ -945,7 +944,6 @@
 0.0.0.0 adzerk.net
 0.0.0.0 adzerk.s3.amazonaws.com
 0.0.0.0 adzestocp.com
-0.0.0.0 adzone.temp.co.za
 0.0.0.0 adzones.com
 0.0.0.0 adzrevads.com
 0.0.0.0 aerserv.com
@@ -956,7 +954,6 @@
 0.0.0.0 affiliate.doubleyourdating.com
 0.0.0.0 affiliate.dtiserv.com
 0.0.0.0 affiliate.gamestop.com
-0.0.0.0 affiliate.mogs.com
 0.0.0.0 affiliate.offgamers.com
 0.0.0.0 affiliate.rusvpn.com
 0.0.0.0 affiliate.travelnow.com
@@ -1346,7 +1343,6 @@
 0.0.0.0 cbanners.virtuagirlhd.com
 0.0.0.0 cdn.bannerflow.com
 0.0.0.0 cdn.branch.io
-0.0.0.0 cdn.freefarcy.com
 0.0.0.0 cdn.freshmarketer.com
 0.0.0.0 cdn.heapanalytics.com
 0.0.0.0 cdn.keywee.co
@@ -1695,6 +1691,7 @@
 0.0.0.0 em1.yoursantander.co.uk
 0.0.0.0 email-clk.adguard.com
 0.0.0.0 email-opn.adguard.com
+0.0.0.0 email.m1.bktrksmail.com
 0.0.0.0 emanog.com
 0.0.0.0 emebo.com
 0.0.0.0 emebo.io
@@ -1885,7 +1882,6 @@
 0.0.0.0 geobanner.adultfriendfinder.com
 0.0.0.0 georiot.com
 0.0.0.0 geovisite.com
-0.0.0.0 get-best-prizes.life
 0.0.0.0 getclicky.com
 0.0.0.0 getintent.com
 0.0.0.0 getmyads.com
@@ -1903,6 +1899,7 @@
 0.0.0.0 go-rank.de
 0.0.0.0 go.eu.sparkpostmail1.com
 0.0.0.0 go.icann.org
+0.0.0.0 go.usa.gov
 0.0.0.0 go2affise.com
 0.0.0.0 goingplatinum.com
 0.0.0.0 goldstats.com
@@ -2139,6 +2136,7 @@
 0.0.0.0 kanoodle.com
 0.0.0.0 kargo.com
 0.0.0.0 karonty.com
+0.0.0.0 katie.v4.byetnc.com
 0.0.0.0 kesmatic.com
 0.0.0.0 keymedia.hu
 0.0.0.0 kindads.com
@@ -2298,7 +2296,6 @@
 0.0.0.0 matomo.crossiety.app
 0.0.0.0 matomo.gals24.ru
 0.0.0.0 matomo.hdweb.ru
-0.0.0.0 matomo.kmkb.ru
 0.0.0.0 matomo.zwetok.ru
 0.0.0.0 mautic.com
 0.0.0.0 max.i12.de
@@ -2442,6 +2439,7 @@
 0.0.0.0 myvisualiq.net
 0.0.0.0 n69.com
 0.0.0.0 naj.sk
+0.0.0.0 naj22.proasdf.com
 0.0.0.0 nappyattack.com
 0.0.0.0 naradxb.com
 0.0.0.0 nastydollars.com
@@ -2765,6 +2763,7 @@
 0.0.0.0 px.gfycat.com
 0.0.0.0 px.spiceworks.com
 0.0.0.0 pxf.io
+0.0.0.0 pxl-mailtracker.com
 0.0.0.0 pxl.iqm.com
 0.0.0.0 pymx5.com
 0.0.0.0 q.azcentral.com
@@ -2928,6 +2927,7 @@
 0.0.0.0 s.adroll.com
 0.0.0.0 s1-adfly.com
 0.0.0.0 s20dh7e9dh.com
+0.0.0.0 s2d6.com
 0.0.0.0 s2strk.info
 0.0.0.0 sa.api.intl.miui.com
 0.0.0.0 sabio.us
