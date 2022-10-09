@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 13 Sep 2022 14:51 UTC+7
-# Version: 2209131451
-# Blocked: 4.511 domains
+# Last modified: 25 Sep 2022 22:34 UTC+7
+# Version: 2209252234
+# Blocked: 4.526 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -206,6 +206,7 @@
 0.0.0.0 789club.com
 0.0.0.0 789club.org
 0.0.0.0 789clubs.club
+0.0.0.0 789d.club
 0.0.0.0 78win01.com
 0.0.0.0 78win04.com
 0.0.0.0 78win07.com
@@ -531,6 +532,7 @@
 0.0.0.0 api.ae888.com
 0.0.0.0 api.betlv.com
 0.0.0.0 api.f8bet0.com
+0.0.0.0 api.f8bet5.com
 0.0.0.0 api.i8bet.org
 0.0.0.0 api.i99903.com
 0.0.0.0 api.i99908.com
@@ -692,6 +694,7 @@
 0.0.0.0 chimdien.socvip9.club
 0.0.0.0 choi.playiwin.uk
 0.0.0.0 choingay88.com
+0.0.0.0 choingayone88.win
 0.0.0.0 choisv88.live
 0.0.0.0 choita88.club
 0.0.0.0 choiwin79.com
@@ -869,6 +872,7 @@
 0.0.0.0 f6.macauclub.fun
 0.0.0.0 f6.playv8.vip
 0.0.0.0 f8bet0.com
+0.0.0.0 f8bet5.com
 0.0.0.0 fa88.win
 0.0.0.0 fa88vn.live
 0.0.0.0 fabet.com
@@ -946,6 +950,7 @@
 0.0.0.0 game.789.moi
 0.0.0.0 game.789a.club
 0.0.0.0 game.789club.org
+0.0.0.0 game.789d.club
 0.0.0.0 game.b52.vip
 0.0.0.0 game.b52.win
 0.0.0.0 game.taib52.club
@@ -3180,6 +3185,7 @@
 0.0.0.0 lotto60.com
 0.0.0.0 lp.macauclub.fun
 0.0.0.0 lp.mayclub.net
+0.0.0.0 lp.rikvip.tv
 0.0.0.0 lp.rikvipp.net
 0.0.0.0 lp.sunwinvn.club
 0.0.0.0 lp.taiv8.top
@@ -3396,6 +3402,7 @@
 0.0.0.0 mzmz5.com
 0.0.0.0 naapptbwf.com
 0.0.0.0 nbet.com
+0.0.0.0 nbet.top
 0.0.0.0 nbet.vip
 0.0.0.0 nbet.win
 0.0.0.0 nearom.com
@@ -3491,6 +3498,7 @@
 0.0.0.0 play.rik.vip
 0.0.0.0 play.rik.win
 0.0.0.0 play.rikgame.live
+0.0.0.0 play.rikvip.tv
 0.0.0.0 play.sbotop246.com
 0.0.0.0 play.taib52.club
 0.0.0.0 play.taib52.com
@@ -3561,6 +3569,7 @@
 0.0.0.0 qc.789club.biz
 0.0.0.0 qc.789club.com
 0.0.0.0 qc.789club.org
+0.0.0.0 qc.789d.club
 0.0.0.0 qc.b52.win
 0.0.0.0 qc.gamevipclub.fun
 0.0.0.0 qc.macau.club
@@ -3616,9 +3625,11 @@
 0.0.0.0 rich11sportsbet.com
 0.0.0.0 rik.vip
 0.0.0.0 rik.win
+0.0.0.0 rikbet789.club
 0.0.0.0 rikgame.live
 0.0.0.0 rikk.us
 0.0.0.0 rikkk.net
+0.0.0.0 rikvip.tv
 0.0.0.0 rikvip.uk
 0.0.0.0 rikvip.us
 0.0.0.0 rikvipclub.us
@@ -3760,6 +3771,7 @@
 0.0.0.0 tai.nhatvip.live
 0.0.0.0 tai.rik.vip
 0.0.0.0 tai.rik.win
+0.0.0.0 tai.rikvip.tv
 0.0.0.0 tai.rikvip.us
 0.0.0.0 tai.top88vn.net
 0.0.0.0 tai.v28.club
@@ -3800,6 +3812,7 @@
 0.0.0.0 tha.bet
 0.0.0.0 thabet.co
 0.0.0.0 thabet.gg
+0.0.0.0 thabet.one
 0.0.0.0 thabet88.co
 0.0.0.0 thabet88.info
 0.0.0.0 thabet88.vip
@@ -4078,6 +4091,7 @@
 0.0.0.0 wowslot.com
 0.0.0.0 wp.mu9.win
 0.0.0.0 wp.red88.us
+0.0.0.0 wp.rikvip.tv
 0.0.0.0 wp.rikvipp.net
 0.0.0.0 ws.vx88.com
 0.0.0.0 ws2vs.com
@@ -4203,6 +4217,7 @@
 0.0.0.0 www.ent678.com
 0.0.0.0 www.eurofun88.com
 0.0.0.0 www.f8bet0.com
+0.0.0.0 www.f8bet5.com
 0.0.0.0 www.fabet.us
 0.0.0.0 www.fabet77.net
 0.0.0.0 www.fabet88.net
