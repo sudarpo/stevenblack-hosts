@@ -2353,7 +2353,6 @@
 0.0.0.0 s-img.adskeeper.com
 0.0.0.0 s.uuidksinc.net
 0.0.0.0 s.viiqvmfb.com
-0.0.0.0 s.w.org
 0.0.0.0 soldierreproduceadmiration.com
 0.0.0.0 tcimp.zog.link
 0.0.0.0 tsyndicate.com
@@ -2366,3 +2365,6 @@
 0.0.0.0 www.gaming-adult.com
 0.0.0.0 mediasama.com
 0.0.0.0 danbo.org
+
+# Added November 27, 2022
+0.0.0.0 crmt.livejasmin.com
