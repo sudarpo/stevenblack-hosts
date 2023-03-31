@@ -2,6 +2,7 @@
 # Title: Hosts contributed by Steven Black
 # http://stevenblack.com
 
+0.0.0.0 ck.getcookiestxt.com
 0.0.0.0 eu1.clevertap-prod.com
 0.0.0.0 wizhumpgyros.com
 0.0.0.0 coccyxwickimp.com
@@ -2299,9 +2300,6 @@
 # Added September 12, 2022
 0.0.0.0 eu-commercialb.com
 
-# Added September 23, 2022
-0.0.0.0 hits.sh
-
 # Added September 29, 2022
 0.0.0.0 gratlfyingdates.net
 0.0.0.0 www.gratlfyingdates.net
@@ -2448,7 +2446,6 @@ analytics.shein.co.uk
 0.0.0.0 freestar-io.videoplayerhub.com
 0.0.0.0 oa.openxcdn.net
 0.0.0.0 s2s.t13.io
-0.0.0.0 seg.hadron.ad.g
 
 # Added January 11, 2023
 0.0.0.0 btc8886.com
@@ -2499,3 +2496,16 @@ analytics.shein.co.uk
 0.0.0.0 secure.cdn.fastclick.ne
 0.0.0.0 twngcpbidder.lb.engagecore.com
 0.0.0.0 assets-jpcust.jwpsrv.com
+
+# Added March 7, 2023
+0.0.0.0 a125375509.cdn.optimizely.com 
+0.0.0.0 cdn.cookielaw.org 
+0.0.0.0 cdn.indexww.com 
+0.0.0.0 encrypted-tbn1.gstatic.com
+
+# Added March 25, 2023
+0.0.0.0 wpad.www.tendawifi.com
+0.0.0.0 crprt.livejasmin.com
+
+# Added March 28, 2023
+0.0.0.0 grow.gab.com
