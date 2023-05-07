@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 26 Feb 2023 16:54 UTC+7
-# Version: 2302261654
-# Blocked: 4,884 domains
+# Last modified: 21 Apr 2023 13:53 UTC+7
+# Version: 2304211353
+# Blocked: 4,901 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -10,6 +10,9 @@
 #
 # =====================================================
 
+0.0.0.0 0000130.com
+0.0.0.0 0066130.com
+0.0.0.0 0077130.com
 0.0.0.0 010bestk8.com
 0.0.0.0 011bestk8.com
 0.0.0.0 012bestk8.com
@@ -52,6 +55,7 @@
 0.0.0.0 09prok8.com
 0.0.0.0 10gamek8.com
 0.0.0.0 111c54.com
+0.0.0.0 1166130.com
 0.0.0.0 118kbet.com
 0.0.0.0 11bet.club
 0.0.0.0 11bet.com
@@ -76,6 +80,7 @@
 0.0.0.0 123b88.com
 0.0.0.0 123bdy.com
 0.0.0.0 12b99.com
+0.0.0.0 130casino.com
 0.0.0.0 13lg8.com
 0.0.0.0 168kbet.com
 0.0.0.0 17878b7e7t.com
@@ -627,6 +632,7 @@
 0.0.0.0 bntv.bongvip.com
 0.0.0.0 bo.b52.win
 0.0.0.0 bogcuoc.com
+0.0.0.0 bom52.club
 0.0.0.0 bong88.cam
 0.0.0.0 bong88.com
 0.0.0.0 bong88.net
@@ -1040,6 +1046,7 @@
 0.0.0.0 game.789d.club
 0.0.0.0 game.b52.win
 0.0.0.0 game.b52d.club
+0.0.0.0 game.bom52.club
 0.0.0.0 game.taib52.com
 0.0.0.0 game.v99win.app
 0.0.0.0 game69.top
@@ -1254,6 +1261,7 @@
 0.0.0.0 iwiin.club
 0.0.0.0 iwin.club
 0.0.0.0 iwin.info
+0.0.0.0 iwin.us
 0.0.0.0 iwin6699.com
 0.0.0.0 iwin68m.com
 0.0.0.0 iwinapk.link
@@ -3532,6 +3540,7 @@
 0.0.0.0 piwik.12b99.com
 0.0.0.0 piwik.88thaicasinoslots.com
 0.0.0.0 play.b52.win
+0.0.0.0 play.bom52.club
 0.0.0.0 play.choiwin79.net
 0.0.0.0 play.fa88.win
 0.0.0.0 play.go88.club
@@ -3996,6 +4005,7 @@
 0.0.0.0 v7king.com
 0.0.0.0 v8.club
 0.0.0.0 v88ag.com
+0.0.0.0 v8club.club
 0.0.0.0 v99win.app
 0.0.0.0 v9bet.com
 0.0.0.0 v9bet55.com
@@ -4037,6 +4047,7 @@
 0.0.0.0 vinalottery.com
 0.0.0.0 vip.8kbet.vn
 0.0.0.0 vip.v99win.app
+0.0.0.0 vip130130.com
 0.0.0.0 vipbet998.com
 0.0.0.0 viu88.com
 0.0.0.0 viva88.com
@@ -4243,6 +4254,8 @@
 0.0.0.0 we1wingame.com
 0.0.0.0 we1winvn.app
 0.0.0.0 we1winvn.com
+0.0.0.0 web.0000130.com
+0.0.0.0 web.130casino.com
 0.0.0.0 web.68rich.com
 0.0.0.0 web.macau.club
 0.0.0.0 web.macauclub.fun
@@ -4292,10 +4305,13 @@
 0.0.0.0 ws2vs.com
 0.0.0.0 ww88club.com
 0.0.0.0 www-c54.com
+0.0.0.0 www.0066130.com
+0.0.0.0 www.0077130.com
 0.0.0.0 www.016665.com
 0.0.0.0 www.016881.com
 0.0.0.0 www.03gamek8.com
 0.0.0.0 www.1126bet.com
+0.0.0.0 www.1166130.com
 0.0.0.0 www.118kbet.com
 0.0.0.0 www.11zalo.com
 0.0.0.0 www.123b.bet
@@ -4558,6 +4574,7 @@
 0.0.0.0 www.i9bet888.com
 0.0.0.0 www.income88.com
 0.0.0.0 www.interwinvn.com
+0.0.0.0 www.iwin.us
 0.0.0.0 www.ja77.net
 0.0.0.0 www.jb777.net
 0.0.0.0 www.jbo010.com

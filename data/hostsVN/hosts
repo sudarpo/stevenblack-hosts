@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 28 Feb 2023 13:57 UTC+7
-# Version: 2302281357
-# Blocked: 1,788 domains
+# Last modified: 27 Apr 2023 23:16 UTC+7
+# Version: 2304272316
+# Blocked: 1,792 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -458,11 +458,11 @@
 0.0.0.0 px.dmp.zaloapp.com
 0.0.0.0 px.za.zaloapp.com
 0.0.0.0 stats.dev.zaloapp.com
+0.0.0.0 stats.stg.zaloapp.com
 0.0.0.0 stats.zaloapp.com
 0.0.0.0 wg.zaloapp.com
 0.0.0.0 zminer.zaloapp.com
 0.0.0.0 ztevents.zaloapp.com
-0.0.0.0 stats.stg.zaloapp.com
 #[ads.zaloapp.com]
 0.0.0.0 ads.zaloapp.com
 0.0.0.0 jr.ads.zaloapp.com
@@ -1111,9 +1111,6 @@
 0.0.0.0 static.subiz.com
 0.0.0.0 widget.subiz.com
 0.0.0.0 widgetv4.subiz.com
-#[sbz.vn]
-0.0.0.0 api.sbz.vn
-0.0.0.0 widget.sbz.vn
 #[subiz.net]
 0.0.0.0 api.subiz.net
 0.0.0.0 widget.subiz.net
@@ -1456,6 +1453,7 @@
 0.0.0.0 tracking.vtc.vn
 #[vtcnews.vn]
 0.0.0.0 delivery.vtcnews.vn
+0.0.0.0 track.vtcnews.vn
 #[vtcnew.com.vn]
 0.0.0.0 delivery.vtcnew.com.vn
 0.0.0.0 tracking.vtcnew.com.vn
@@ -1463,6 +1461,11 @@
 0.0.0.0 m.zedcdn.me
 0.0.0.0 me.zedcdn.me
 0.0.0.0 mme.zedcdn.me
+#[aanetwork.vn]
+0.0.0.0 aanetwork.vn
+0.0.0.0 cdn.aanetwork.vn
+0.0.0.0 imgs2.aanetwork.vn
+0.0.0.0 pub.aanetwork.vn
 # --- Block adsVN ---
 0.0.0.0 12signup.com
 0.0.0.0 ad-admin.vnay.vn
@@ -1609,7 +1612,6 @@
 0.0.0.0 csmads.gameclick.vn
 0.0.0.0 delecpuzz.com
 0.0.0.0 delivery.senvangvn.com
-0.0.0.0 deltago.com
 0.0.0.0 demopage.me
 0.0.0.0 deqik.com
 0.0.0.0 dt.vnecdn.com
@@ -1873,6 +1875,7 @@
 0.0.0.0 mto.cgv.vn
 0.0.0.0 nct1.logging.nextsmarty.com
 0.0.0.0 newlog.daidoanket.vn
+0.0.0.0 newlog.tapchitaichinh.vn
 0.0.0.0 nstat.headlines.pw
 0.0.0.0 pixel.chotot.com
 0.0.0.0 production-tracking.riviu.co
@@ -1958,6 +1961,7 @@
 0.0.0.0 trackingapi.foody.vn
 0.0.0.0 trackingvn.zingplay.com
 0.0.0.0 trackity.tiki.vn
+0.0.0.0 traffic.vietnhan.co
 0.0.0.0 trk.123c.vn
 0.0.0.0 trk.staging.123c.vn
 0.0.0.0 userstats.shopee.vn

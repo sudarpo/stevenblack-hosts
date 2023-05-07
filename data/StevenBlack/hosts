@@ -2,6 +2,7 @@
 # Title: Hosts contributed by Steven Black
 # http://stevenblack.com
 
+0.0.0.0 ck.getcookiestxt.com
 0.0.0.0 eu1.clevertap-prod.com
 0.0.0.0 wizhumpgyros.com
 0.0.0.0 coccyxwickimp.com
@@ -2299,9 +2300,6 @@
 # Added September 12, 2022
 0.0.0.0 eu-commercialb.com
 
-# Added September 23, 2022
-0.0.0.0 hits.sh
-
 # Added September 29, 2022
 0.0.0.0 gratlfyingdates.net
 0.0.0.0 www.gratlfyingdates.net
@@ -2448,7 +2446,6 @@ analytics.shein.co.uk
 0.0.0.0 freestar-io.videoplayerhub.com
 0.0.0.0 oa.openxcdn.net
 0.0.0.0 s2s.t13.io
-0.0.0.0 seg.hadron.ad.g
 
 # Added January 11, 2023
 0.0.0.0 btc8886.com
@@ -2499,3 +2496,78 @@ analytics.shein.co.uk
 0.0.0.0 secure.cdn.fastclick.ne
 0.0.0.0 twngcpbidder.lb.engagecore.com
 0.0.0.0 assets-jpcust.jwpsrv.com
+
+# Added March 7, 2023
+0.0.0.0 a125375509.cdn.optimizely.com
+0.0.0.0 cdn.cookielaw.org
+0.0.0.0 cdn.indexww.com
+0.0.0.0 encrypted-tbn1.gstatic.com
+
+# Added March 25, 2023
+0.0.0.0 wpad.www.tendawifi.com
+0.0.0.0 crprt.livejasmin.com
+
+# Added March 28, 2023
+0.0.0.0 grow.gab.com
+
+# Added April 3, 2023
+0.0.0.0 transive.top
+0.0.0.0 warehousesale.shop
+
+# Added April 4, 2023
+0.0.0.0 fpjscdn.net
+0.0.0.0 api.fpjs.io
+0.0.0.0 use1.fptls.com
+0.0.0.0 use1.fptls3.com
+
+# Added April 7, 2023
+0.0.0.0 turnip.cdn.turner.com
+0.0.0.0 d2uap9jskdzp2.cloudfront.net
+0.0.0.0 steadfastseat.com
+0.0.0.0 medium.ngtv.io
+0.0.0.0 licensing.bitmovin.com
+0.0.0.0 eq97f.publishers.tremorhub.com
+
+# Added April 13, 2023
+0.0.0.0 wota-tournament.com
+
+# Added April 19, 2023
+0.0.0.0 rukalebi.ru
+0.0.0.0 bueromoebelservice.com
+
+# Added April 21, 2023
+0.0.0.0 beautydates.cn
+0.0.0.0 www.beautydates.cn
+0.0.0.0 hhoneyann96.beautydates.cn
+0.0.0.0 nilaima.com
+0.0.0.0 www.nilaima.com
+
+# Added April 27, 2023
+0.0.0.0 www.gameitlive.com
+0.0.0.0 gameitlive.com
+
+# Added April 28, 2023
+0.0.0.0 stripchat.com
+
+# Added April 29, 2023
+0.0.0.0 crmpt.livejasmin.com
+
+# Added May 2, 2023
+0.0.0.0 claudfront.net
+0.0.0.0 allowlisted.net
+0.0.0.0 atlas-upd.com
+0.0.0.0 ads-tm-glb.click
+0.0.0.0 cbox4.ignorelist.com
+0.0.0.0 hsdps.cc
+0.0.0.0 slotmagie.de
+0.0.0.0 www.slotmagie.de
+0.0.0.0 slotmagie.zendesk.com
+0.0.0.0 tubepornclassics.com
+0.0.0.0 www.tubepornclassics.com
+0.0.0.0 ww1.tubepornclassics.com
+0.0.0.0 ww7.tubepornclassics.com
+0.0.0.0 ww12.tubepornclassics.com
+0.0.0.0 kwrn.eu
+0.0.0.0 www.kwrn.eu
+0.0.0.0 profile.omega.kwrn.eu
+0.0.0.0 api.sprig.com
