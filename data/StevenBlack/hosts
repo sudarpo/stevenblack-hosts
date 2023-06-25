@@ -2521,10 +2521,8 @@ analytics.shein.co.uk
 0.0.0.0 use1.fptls3.com
 
 # Added April 7, 2023
-0.0.0.0 turnip.cdn.turner.com
 0.0.0.0 d2uap9jskdzp2.cloudfront.net
 0.0.0.0 steadfastseat.com
-0.0.0.0 medium.ngtv.io
 0.0.0.0 licensing.bitmovin.com
 0.0.0.0 eq97f.publishers.tremorhub.com
 
@@ -2571,3 +2569,38 @@ analytics.shein.co.uk
 0.0.0.0 www.kwrn.eu
 0.0.0.0 profile.omega.kwrn.eu
 0.0.0.0 api.sprig.com
+
+# Added May 15, 2023
+0.0.0.0 telemetry-cii.api.playstation.com
+
+# Added May 19, 2023
+0.0.0.0 clorec4.net
+0.0.0.0 wu.idismfonts.com
+0.0.0.0 xml-eu.flairadscpc.com
+
+# Added May 30, 2023
+0.0.0.0 serasearchtop.com
+0.0.0.0 track.atom-ds.com
+
+# Added June 3, 2023
+0.0.0.0 addatamarket.net
+0.0.0.0 backuprabbit.com
+0.0.0.0 businessvideonews.com
+0.0.0.0 cloudsponcer.com
+0.0.0.0 datamarketplace.net
+0.0.0.0 mobilegamerstats.com
+0.0.0.0 snoweeanalytics.com
+0.0.0.0 tagclick-cdn.com
+0.0.0.0 topographyupdates.com
+0.0.0.0 unlimitedteacup.com
+0.0.0.0 virtuallaughing.com
+0.0.0.0 web-trackers.com
+0.0.0.0 growthtransport.com
+0.0.0.0 anstv.net
+0.0.0.0 ans7tv.net
+0.0.0.0 123-vendasvoos25.lovestoblog.com
+0.0.0.0 c-123milhas.shop
+
+# Added June 13, 2023
+0.0.0.0 assistant-chronopost.com
+0.0.0.0 zhihu-web-analytics.zhihu.com
