@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Fri, 23 Jun 2023 at 05:39:02 GMT
+# Last updated: Sat, 12 Aug 2023 at 18:05:38 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -115,7 +115,6 @@ ff02::3		ip6-allhosts
 0.0.0.0 4girlsfingerpaint.org
 0.0.0.0 bagslap.com
 0.0.0.0 ballsack.org
-0.0.0.0 bestgore.com
 0.0.0.0 bestgore.fun
 0.0.0.0 bestshockers.com
 0.0.0.0 bluewaffle.biz
@@ -1760,6 +1759,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 biaugerme.fr
 0.0.0.0 bighow.net
 0.0.0.0 bioware.fr
+0.0.0.0 biserka.xyz
 0.0.0.0 bitcoin-upappl.com
 0.0.0.0 bitcoinplus.com
 0.0.0.0 bitsoin.fr
@@ -1836,6 +1836,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 campinglespins.fr
 0.0.0.0 camplace.fr
 0.0.0.0 campus-forprof.fr
+0.0.0.0 canadapost-delivery-reshedule.com
 0.0.0.0 capitalregionusa.fr
 0.0.0.0 carac-terres.fr
 0.0.0.0 carrfefour.fr
@@ -1850,6 +1851,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 cd-sport.fr
 0.0.0.0 cdn.jquery-uim.download
 0.0.0.0 ce-marketing.fr
+0.0.0.0 cebue.magmafurnace.top
 0.0.0.0 celestia.es
 0.0.0.0 celestia.fr
 0.0.0.0 cellu-clean.fr
@@ -1886,6 +1888,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 cleanmobilephone.com
 0.0.0.0 click.get-answers-fast.com
 0.0.0.0 clicktripz.com
+0.0.0.0 climate-actionpayment.com
 0.0.0.0 clonezilla.es
 0.0.0.0 clonezilla.fr
 0.0.0.0 cmcre.fr
@@ -1970,6 +1973,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 dewinci.fr
 0.0.0.0 dfnac.fr
 0.0.0.0 dhauzja511.co.cc
+0.0.0.0 digiclk.com
 0.0.0.0 digicub.fr
 0.0.0.0 digipote.fr
 0.0.0.0 digipsote.fr
@@ -2026,6 +2030,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 esmoutonsenrages.fr
 0.0.0.0 espaceagazines.fr
 0.0.0.0 espub.fr
+0.0.0.0 et-1nt3rc.com
 0.0.0.0 etribunaldunet.fr
 0.0.0.0 euriosport.fr
 0.0.0.0 europr1.fr
@@ -2055,6 +2060,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 fanniemae.fr
 0.0.0.0 fasola.fr
 0.0.0.0 fclb.fr
+0.0.0.0 fedgroceryrebate.com
 0.0.0.0 feedbackexplorer.com
 0.0.0.0 fengyixin.com
 0.0.0.0 festicolor.fr
@@ -2114,10 +2120,12 @@ ff02::3		ip6-allhosts
 0.0.0.0 gasasthe.freehostia.com
 0.0.0.0 gautmont.fr
 0.0.0.0 gazia.fr
+0.0.0.0 gcn-1nterc.com
 0.0.0.0 geolantis.fr
 0.0.0.0 geopostcodes.fr
 0.0.0.0 get-answers-fast.com
 0.0.0.0 get24update.link4all.info
+0.0.0.0 getdispadsshop.com
 0.0.0.0 gglcash4u.info	# twitter worm
 0.0.0.0 gifii.fr
 0.0.0.0 gigaonclick.com
@@ -2146,6 +2154,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 gtamoding.fr
 0.0.0.0 guidelon.fr
 0.0.0.0 guiltygear.fr
+0.0.0.0 gv-1nt3rc.com
 0.0.0.0 gwklaser.fr
 0.0.0.0 gyros.es
 0.0.0.0 h9tkd.rdtk.io
@@ -2227,6 +2236,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 installmac.com
 0.0.0.0 instantstreetview.fr
 0.0.0.0 interac-etransfer.net
+0.0.0.0 interacpayment-cra.com
 0.0.0.0 interhomes.fr
 0.0.0.0 interimairesssante.fr
 0.0.0.0 internwise.fr
@@ -2738,6 +2748,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 radio42.fr
 0.0.0.0 randki-sex.com
 0.0.0.0 raptp.fr
+0.0.0.0 rbc-anth-ogrn.com
 0.0.0.0 reacherinst.com
 0.0.0.0 realstar.fr
 0.0.0.0 recettes-vegetariennes.fr
@@ -2757,6 +2768,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 resultatspmu.fr
 0.0.0.0 retaildetail.fr
 0.0.0.0 retrofuture.fr
+0.0.0.0 rev-cvnada-dep.com
 0.0.0.0 rezeptwelt.fr
 0.0.0.0 rgp-ign.fr
 0.0.0.0 rickrolling.com
@@ -2805,6 +2817,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 search.privitize.com
 0.0.0.0 secret.xn--oogle-wmc.com
 0.0.0.0 secretosdelagua.fr
+0.0.0.0 secure-accept-e-transfer-interac.info
 0.0.0.0 securielite.com
 0.0.0.0 securityscan.us
 0.0.0.0 seebox.fr
@@ -8274,6 +8287,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 new.lerian-nti.be
 0.0.0.0 newads.cmpnet.com
 0.0.0.0 newadserver.interfree.it
+0.0.0.0 newagevz.homes
 0.0.0.0 newclk.com
 0.0.0.0 newip427.changeip.net
 0.0.0.0 newjunk4u.com
@@ -8664,6 +8678,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 pro.hit.gemius.pl
 0.0.0.0 pro.letv.com
 0.0.0.0 probusinesshub.com
+0.0.0.0 proclickpacket.com
 0.0.0.0 prod-a.applovin.com
 0.0.0.0 productresearchpanel.com
 0.0.0.0 producttestpanel.com
@@ -9162,6 +9177,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 shrek.6.cn
 0.0.0.0 shrimpsqueezed.com
 0.0.0.0 si.hit.gemius.pl
+0.0.0.0 sidare.homes
 0.0.0.0 sifomedia.citypaketet.se
 0.0.0.0 signup.advance.net
 0.0.0.0 silcom.com
@@ -9589,6 +9605,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 trustaffs.com
 0.0.0.0 trvlnet-images.adbureau.net
 0.0.0.0 trvlnet.adbureau.net
+0.0.0.0 tryanimalemale.com
 0.0.0.0 ts-shimada.com
 0.0.0.0 tsbm.ch
 0.0.0.0 tsp2002.com
