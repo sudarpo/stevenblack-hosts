@@ -7,8 +7,7 @@ git pull sb master
 git push
 
 echo Generating hosts files
-python updateHostsFile.py --extensions fakenews gambling --auto --nogendata --noupdate --compress --output sc-hosts
-REM   porn  # porn generates 200K entries
+python updateHostsFile.py --extensions porn fakenews gambling --auto --nounifiedhosts --nogendata --noupdate --compress --output sc-hosts
 
 echo Updating hosts file
 copy /y sc-hosts\hosts C:\Windows\System32\drivers\etc\hosts
