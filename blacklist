@@ -28,4 +28,236 @@
 # fouanalytics
 0.0.0.0 api.fouanalytics.com 
 0.0.0.0 adsbydomain.fouanalytics.com
-# END--SC Extra blocking
+
+# [doubleclick.net]
+0.0.0.0 doubleclick.net
+0.0.0.0 accounts.doubleclick.net
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 ad-emea.doubleclick.net
+0.0.0.0 ff.doubleclick.net
+0.0.0.0 fls.doubleclick.net
+0.0.0.0 3243857.fls.doubleclick.net
+0.0.0.0 4394967.fls.doubleclick.net
+0.0.0.0 5290727.fls.doubleclick.net
+0.0.0.0 8168974.fls.doubleclick.net
+0.0.0.0 8272590.fls.doubleclick.net
+0.0.0.0 8397396.fls.doubleclick.net
+0.0.0.0 g.doubleclick.net
+0.0.0.0 adx.g.doubleclick.net
+0.0.0.0 bid.g.doubleclick.net
+0.0.0.0 cm.g.doubleclick.net
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 googleads4.g.doubleclick.net
+0.0.0.0 pubads.g.doubleclick.net
+0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 stats.g.doubleclick.net
+0.0.0.0 survey.g.doubleclick.net
+0.0.0.0 g1.doubleclick.net
+0.0.0.0 ads-bid.l.doubleclick.net
+0.0.0.0 dart.l.doubleclick.net
+0.0.0.0 partnerad.l.doubleclick.net
+0.0.0.0 stats.l.doubleclick.net
+0.0.0.0 m.doubleclick.net
+0.0.0.0 s0.doubleclick.net
+0.0.0.0 static.doubleclick.net
+
+# [google-analytics.com]
+0.0.0.0 google-analytics.com
+0.0.0.0 ssl.google-analytics.com
+0.0.0.0 www.google-analytics.com
+
+0.0.0.0 ssl.googleanalytics.com
+0.0.0.0 click.googleanalytics.com
+0.0.0.0 alt2.googleanalytics.com
+0.0.0.0 alt4.googleanalytics.com
+0.0.0.0 sandbox.googleanalytics.com
+0.0.0.0 admobclick.com
+0.0.0.0 www.admobclick.com
+0.0.0.0 pixel.admobclick.com
+
+# [google.com]
+0.0.0.0 ads.google.com
+0.0.0.0 adservice.google.com
+0.0.0.0 s0-2mdn-net.l.google.com
+
+# [googleadservices.com]
+0.0.0.0 googleadservices.com
+0.0.0.0 pagead2.googleadservices.com
+0.0.0.0 www.googleadservices.com
+
+# [googleadsserving.cn]
+0.0.0.0 static.googleadsserving.cn
+
+# [googlesyndication.com]
+0.0.0.0 googlesyndication.com
+0.0.0.0 ade.googlesyndication.com
+0.0.0.0 pagead.googlesyndication.com
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 tpc.googlesyndication.com
+
+# [googleusercontent.com]
+0.0.0.0 displayads-formats.googleusercontent.com
+
+# [brand-display.com]
+0.0.0.0 dmp.brand-display.com
+
+# [brandcdn.com]
+0.0.0.0 adservices.brandcdn.com
+
+# [brandmetrics.com]
+0.0.0.0 cdn.brandmetrics.com
+
+# [moatads.com]
+0.0.0.0 moatads.com
+0.0.0.0 apx.moatads.com
+0.0.0.0 d3.moatads.com
+0.0.0.0 dbg52463.moatads.com
+0.0.0.0 dsa.moatads.com
+0.0.0.0 geo.moatads.com
+0.0.0.0 js.moatads.com
+0.0.0.0 mb.moatads.com
+0.0.0.0 ecs.mb.moatads.com
+0.0.0.0 ap-southeast-1.ecs.mb.moatads.com
+0.0.0.0 us-west-2.ecs.mb.moatads.com
+0.0.0.0 obo.moatads.com
+0.0.0.0 pixel.moatads.com
+0.0.0.0 px.moatads.com
+0.0.0.0 px2.moatads.com
+0.0.0.0 px2m.moatads.com
+0.0.0.0 s-jsonp.moatads.com
+0.0.0.0 sejs.moatads.com
+0.0.0.0 svastx.moatads.com
+0.0.0.0 video.moatads.com
+0.0.0.0 z.moatads.com
+
+# [scorecardresearch.com]
+0.0.0.0 scorecardresearch.com
+0.0.0.0 ads.scorecardresearch.com
+0.0.0.0 b.scorecardresearch.com
+0.0.0.0 bs.scorecardresearch.com
+0.0.0.0 end.scorecardresearch.com
+0.0.0.0 sb.scorecardresearch.com
+
+# [localytics.com]
+0.0.0.0 localytics.com
+0.0.0.0 53.localytics.com
+0.0.0.0 api.53.localytics.com
+0.0.0.0 manifest.53.localytics.com
+0.0.0.0 profile-api-prod-elb.53.localytics.com
+0.0.0.0 queuer-prod-elb.53.localytics.com
+0.0.0.0 profile-lookup.services.53.localytics.com
+0.0.0.0 web.53.localytics.com
+0.0.0.0 analytics.localytics.com
+0.0.0.0 api.localytics.com
+0.0.0.0 sdk-assets.localytics.com
+0.0.0.0 web.localytics.com
+0.0.0.0 webanalytics.localytics.com
+0.0.0.0 www.localytics.com
+
+# [crispadvertising.com]
+0.0.0.0 crispadvertising.com
+0.0.0.0 api.crispadvertising.com
+0.0.0.0 cdn2.crispadvertising.com
+0.0.0.0 cdn4.crispadvertising.com
+0.0.0.0 cdn7v2.crispadvertising.com
+0.0.0.0 dts.crispadvertising.com
+
+# [adapex.io]
+0.0.0.0 adapex.io
+0.0.0.0 cdn.adapex.io
+
+# bidvertiser.com
+0.0.0.0 bidvertiser.com
+0.0.0.0 cdn.bidvertiser.com
+0.0.0.0 www.bidvertiser.com
+0.0.0.0 bdv.bidvertiser.com
+0.0.0.0 secure.bidvertiser.com
+0.0.0.0 secure.bidvertiserr.com
+
+# 
+0.0.0.0 bidgear.com
+0.0.0.0 platform.bidgear.com
+0.0.0.0 www.bidgear.com
+0.0.0.0 a.magsrv.com
+0.0.0.0 cdn.pubfuture-ad.com
+
+0.0.0.0 castoola.com
+0.0.0.0 cdn.castoola.com
+0.0.0.0 api.gameads.io
+0.0.0.0 cdn.gameads.io
+0.0.0.0 n.gameads.io
+0.0.0.0 node.gameads.io
+0.0.0.0 shapez.gameads.io
+0.0.0.0 cdn.insurads.com
+0.0.0.0 messaging.insurads.com
+0.0.0.0 services.insurads.com
+
+0.0.0.0 api.moengage.com
+0.0.0.0 apiv2.moengage.com
+0.0.0.0 apiv3.moengage.com
+0.0.0.0 cdn.moengage.com
+0.0.0.0 api.purpleads.io
+0.0.0.0 cdn.purpleads.io
+0.0.0.0 creatives.purpleads.io
+
+0.0.0.0 cdn.usefathom.com
+0.0.0.0 collect.usefathom.com
+0.0.0.0 img3.usefathom.com
+0.0.0.0 akr.usesfathom.com
+0.0.0.0 archsmarter.usesfathom.com
+0.0.0.0 butshesagirl.usesfathom.com
+0.0.0.0 gateguardian.usesfathom.com
+0.0.0.0 jsfiddle.usesfathom.com
+0.0.0.0 justin.usesfathom.com
+0.0.0.0 paleoleap.usesfathom.com
+0.0.0.0 perroverde.usesfathom.com
+0.0.0.0 stats.usesfathom.com
+
+0.0.0.0 api.ad.xiaomi.com
+0.0.0.0 cdn.ad.xiaomi.com
+0.0.0.0 e.ad.xiaomi.com
+0.0.0.0 test.e.ad.xiaomi.com
+0.0.0.0 globalapi.ad.xiaomi.com
+0.0.0.0 sdkconfig.ad.xiaomi.com
+0.0.0.0 test.ad.xiaomi.com
+0.0.0.0 zeus.ad.xiaomi.com
+0.0.0.0 api.ad.intl.xiaomi.com
+0.0.0.0 sdkconfig.ad.intl.xiaomi.com
+
+0.0.0.0 tvpage.com
+0.0.0.0 a.tvpage.com
+0.0.0.0 api.tvpage.com
+0.0.0.0 appcdn.tvpage.com
+0.0.0.0 cdnjs.tvpage.com
+0.0.0.0 mktg.tvpage.com
+0.0.0.0 sitecdn.tvpage.com
+0.0.0.0 stage.tvpage.com
+0.0.0.0 www.stage.tvpage.com
+0.0.0.0 www.tvpage.com
+
+0.0.0.0 ads.adviad.com
+0.0.0.0 ads2.adviad.com
+0.0.0.0 ads3.adviad.com
+0.0.0.0 ads4.adviad.com
+0.0.0.0 sync.adviad.com
+0.0.0.0 api.adviad.com
+0.0.0.0 cdn.adviad.com
+0.0.0.0 dmp.adviad.com
+0.0.0.0 app.adviad.com
+0.0.0.0 dsp.adviad.com
+0.0.0.0 ssp.adviad.com
+0.0.0.0 report.adviad.com
+0.0.0.0 cdnuz.adviad.com
+
+0.0.0.0 mc.speakol.com
+0.0.0.0 rd.speakol.com
+0.0.0.0 inline.speakol.com
+0.0.0.0 pixel.speakol.com
+0.0.0.0 cdn.speakol.com
+0.0.0.0 recommendation.speakol.com
+0.0.0.0 crawler.speakol.com
+0.0.0.0 ads.speakol.com
+0.0.0.0 plugins.speakol.com
+0.0.0.0 publishers.speakol.com
+0.0.0.0 dev.publishers.speakol.com
+
