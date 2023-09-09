@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 28 August 2023 22:49:57 (UTC)
+# Date: 08 September 2023 17:06:48 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: fakenews, gambling, porn
-# Number of unique domains: 63,424
+# Number of unique domains: 63,469
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -2213,9 +2213,9 @@
 0.0.0.0 yubasuttertimes.com
 0.0.0.0 zombie.news
 # Title: hostsVN Gambling
-# Last modified: 28 Aug 2023 22:27 UTC+7
-# Version: 2308282227
-# Blocked: 4,893 domains
+# Last modified: 08 Sep 2023 14:08 UTC+7
+# Version: 2309081408
+# Blocked: 4,944 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -2295,6 +2295,7 @@
 0.0.0.0 123b09.com
 0.0.0.0 123b333.com
 0.0.0.0 123b88.com
+0.0.0.0 123bdly.com
 0.0.0.0 123bdy.com
 0.0.0.0 123win.pro
 0.0.0.0 12b99.com
@@ -2596,6 +2597,12 @@
 0.0.0.0 92lottery.mobi
 0.0.0.0 968.club
 0.0.0.0 978bet34.com
+0.0.0.0 989bet.com
+0.0.0.0 989bet5.com
+0.0.0.0 989bet6.com
+0.0.0.0 989bet7.com
+0.0.0.0 989bet8.com
+0.0.0.0 989bet9.com
 0.0.0.0 9911789.com
 0.0.0.0 9966789.com
 0.0.0.0 99994y.com
@@ -2618,6 +2625,7 @@
 0.0.0.0 ad.8live.com
 0.0.0.0 ad.8live.net
 0.0.0.0 ad.app8.top
+0.0.0.0 ad.choingay11b.mobi
 0.0.0.0 ad.choingay88.com
 0.0.0.0 ad.gamequyong.site
 0.0.0.0 ad.gamequyong.xyz
@@ -2777,6 +2785,8 @@
 0.0.0.0 api.jun889.vip
 0.0.0.0 api.kingbet86.info
 0.0.0.0 api.mc876.com
+0.0.0.0 api.minicasino.io
+0.0.0.0 api.minivn.com
 0.0.0.0 api.mu9.club
 0.0.0.0 api.mu9.com
 0.0.0.0 api.mxvietnam.com
@@ -2886,6 +2896,7 @@
 0.0.0.0 betvisa.com
 0.0.0.0 betvnd.cc
 0.0.0.0 betvnd.vip
+0.0.0.0 betwayvietnam88.com
 0.0.0.0 betwinner.ng
 0.0.0.0 biendo.club
 0.0.0.0 biendo.one
@@ -2911,6 +2922,7 @@
 0.0.0.0 bk8hanoi.com
 0.0.0.0 bk8hot.com
 0.0.0.0 bk8i.com
+0.0.0.0 bk8mys68.asia
 0.0.0.0 bk8p.com
 0.0.0.0 bk8ping.com
 0.0.0.0 bk8so1.com
@@ -3029,14 +3041,17 @@
 0.0.0.0 cheer68.com
 0.0.0.0 choang.fun
 0.0.0.0 choi.gameb52a.me
+0.0.0.0 choi.gamingsoc88.org
 0.0.0.0 choi.playiwin.uk
 0.0.0.0 choi77.com
 0.0.0.0 choi99.com
 0.0.0.0 choibaionlinevn.com
 0.0.0.0 choibancadoithuong.com
 0.0.0.0 choigiaitri.net
+0.0.0.0 choihitclub.run
 0.0.0.0 choiiwin79.fun
 0.0.0.0 choilawin.net
+0.0.0.0 choingay11b.mobi
 0.0.0.0 choingay88.com
 0.0.0.0 choingayone88.win
 0.0.0.0 choisport.com
@@ -3201,6 +3216,7 @@
 0.0.0.0 dl.fa88.win
 0.0.0.0 dl.v8.club
 0.0.0.0 dltbr.com
+0.0.0.0 do99.site
 0.0.0.0 dola88.info
 0.0.0.0 dola99.vip
 0.0.0.0 domixi1gom.com
@@ -3249,7 +3265,10 @@
 0.0.0.0 en.solarbet.com
 0.0.0.0 ent678.com
 0.0.0.0 eu88.bet
+0.0.0.0 eu99kh.com
+0.0.0.0 eu9vietnam.com
 0.0.0.0 eu9vn.com
+0.0.0.0 eu9vn1.com
 0.0.0.0 euro.sin88.biz
 0.0.0.0 eurofun88.com
 0.0.0.0 eurok8.com
@@ -3435,6 +3454,7 @@
 0.0.0.0 gamevui86.com
 0.0.0.0 gamewin79vip.net
 0.0.0.0 gamex8vn.club
+0.0.0.0 gamingsoc88.org
 0.0.0.0 gateway.jbovietnam.com
 0.0.0.0 gateway.jbovn.com
 0.0.0.0 gatewayvn.jbovn.com
@@ -3443,6 +3463,7 @@
 0.0.0.0 gdwbetvn888.com
 0.0.0.0 gdwviet.com
 0.0.0.0 gembanca.com
+0.0.0.0 genvipios.com
 0.0.0.0 gi8.us
 0.0.0.0 gi888.cc
 0.0.0.0 gi8vn.vip
@@ -3510,6 +3531,7 @@
 0.0.0.0 hit1.club
 0.0.0.0 hit1.co
 0.0.0.0 hit32.club
+0.0.0.0 hit38.club
 0.0.0.0 hit68.net
 0.0.0.0 hl8.daily123hl8.com
 0.0.0.0 hl8atm.com
@@ -3828,6 +3850,7 @@
 0.0.0.0 jiejiekan.net
 0.0.0.0 jinbo989898.com
 0.0.0.0 jingbets.com
+0.0.0.0 jjfungame.com
 0.0.0.0 jss77.net
 0.0.0.0 jun88.tv
 0.0.0.0 jun889.vip
@@ -5131,6 +5154,7 @@
 0.0.0.0 lt992.com
 0.0.0.0 lt995.com
 0.0.0.0 lt997.com
+0.0.0.0 luciu.shop
 0.0.0.0 luck6.com
 0.0.0.0 luck8.com
 0.0.0.0 luck8881.com
@@ -5156,6 +5180,7 @@
 0.0.0.0 luckyxoso.com
 0.0.0.0 lux39.club
 0.0.0.0 lux888.club
+0.0.0.0 luxvip.pro
 0.0.0.0 lxviet66.com
 0.0.0.0 m-static.ktokto.mobi
 0.0.0.0 m.123b.bet
@@ -5227,6 +5252,7 @@
 0.0.0.0 m.qq288.com
 0.0.0.0 m.qq8788viet.com
 0.0.0.0 m.red88.com
+0.0.0.0 m.s26bet01.com
 0.0.0.0 m.shbet.love
 0.0.0.0 m.tf88265.com
 0.0.0.0 m.tf88v.com
@@ -5244,6 +5270,7 @@
 0.0.0.0 m.v9jbo.com
 0.0.0.0 m.v9jvn.com
 0.0.0.0 m.v9win.com
+0.0.0.0 m.vf678.com
 0.0.0.0 m.vipbet001.org
 0.0.0.0 m.viva88.com
 0.0.0.0 m.vn88.com
@@ -5333,7 +5360,9 @@
 0.0.0.0 mibet88.win
 0.0.0.0 mig8fans.com
 0.0.0.0 mig8vn.com
+0.0.0.0 minicasino.io
 0.0.0.0 minigame.vnloto.com
+0.0.0.0 minivn.com
 0.0.0.0 mix79.vip
 0.0.0.0 mkt.11bet.us
 0.0.0.0 mkt.debet.com
@@ -5495,6 +5524,7 @@
 0.0.0.0 payment.w88club.com
 0.0.0.0 payment.w88hn.com
 0.0.0.0 pc.choita88.club
+0.0.0.0 pc.vinbet1005.com
 0.0.0.0 pekqt.com
 0.0.0.0 phatloc88.club
 0.0.0.0 piwik.12b99.com
@@ -5513,6 +5543,7 @@
 0.0.0.0 play.go88.vip
 0.0.0.0 play.go88s.tv
 0.0.0.0 play.hit1.co
+0.0.0.0 play.hit38.club
 0.0.0.0 play.hit68.net
 0.0.0.0 play.manclub.vin
 0.0.0.0 play.nemo.vin
@@ -5638,6 +5669,7 @@
 0.0.0.0 reg.playiwin.site
 0.0.0.0 resources.bong90.bet
 0.0.0.0 rewards.w88bkk.com
+0.0.0.0 rg.choihitclub.run
 0.0.0.0 rgcsn.com
 0.0.0.0 rik.bet
 0.0.0.0 rik.club
@@ -5675,6 +5707,7 @@
 0.0.0.0 s2.sin88.cc
 0.0.0.0 s2.sin88.club
 0.0.0.0 s26bet.bet
+0.0.0.0 s26bet01.com
 0.0.0.0 s555.com
 0.0.0.0 s666bet.win
 0.0.0.0 s99902e.com
@@ -5808,9 +5841,11 @@
 0.0.0.0 sun52.click
 0.0.0.0 sun52.fun
 0.0.0.0 sun52.live
+0.0.0.0 sun52.site
 0.0.0.0 sun52.tv
 0.0.0.0 sun6.win
 0.0.0.0 sun88.online
+0.0.0.0 sungame.store
 0.0.0.0 sunvin.vin
 0.0.0.0 sunwin88.asia
 0.0.0.0 sunwinclub.fun
@@ -5861,6 +5896,7 @@
 0.0.0.0 t8betvip.com
 0.0.0.0 ta88.com
 0.0.0.0 tai.b52vn.fun
+0.0.0.0 tai.do99.site
 0.0.0.0 tai.fa88.win
 0.0.0.0 tai.fa88vn.live
 0.0.0.0 tai.go88.club
@@ -5893,6 +5929,7 @@
 0.0.0.0 taib52.vin
 0.0.0.0 taibum.tv
 0.0.0.0 taichoang.fun
+0.0.0.0 taido99.net
 0.0.0.0 taido99.win
 0.0.0.0 taigame789.club
 0.0.0.0 taigamesunwin.vin
@@ -5912,6 +5949,7 @@
 0.0.0.0 taimanclub.com
 0.0.0.0 tainbet.net
 0.0.0.0 taiok88.app
+0.0.0.0 taiqqlive.pro
 0.0.0.0 taiskyclub.online
 0.0.0.0 taisum.ac
 0.0.0.0 taisum.co
@@ -6126,6 +6164,7 @@
 0.0.0.0 vf003.xyz
 0.0.0.0 vf234.com
 0.0.0.0 vf456.com
+0.0.0.0 vf678.com
 0.0.0.0 vfun88.com
 0.0.0.0 vg66.app
 0.0.0.0 vg66.com
@@ -6148,6 +6187,9 @@
 0.0.0.0 vin68.com
 0.0.0.0 vin777.work
 0.0.0.0 vinalottery.com
+0.0.0.0 vinb00.com
+0.0.0.0 vinbet1001.com
+0.0.0.0 vinbet1005.com
 0.0.0.0 vip.8kbet.vn
 0.0.0.0 vip.dangkyrikvip.tv
 0.0.0.0 vip.v99win.app
@@ -6163,6 +6205,7 @@
 0.0.0.0 vjprok8.com
 0.0.0.0 vlott88.com
 0.0.0.0 vn-lm.jbovietnam.com
+0.0.0.0 vn.bway88vietnam.com
 0.0.0.0 vn.ku6101.net
 0.0.0.0 vn.ku6106.net
 0.0.0.0 vn.ku6108.net
@@ -6215,6 +6258,7 @@
 0.0.0.0 vn88vui.live
 0.0.0.0 vn88win.live
 0.0.0.0 vn969.com
+0.0.0.0 vn96check.vinbet1001.com
 0.0.0.0 vnaz888.com
 0.0.0.0 vnbiz88.com
 0.0.0.0 vnboc.com
@@ -6443,6 +6487,7 @@
 0.0.0.0 ws.vx88.com
 0.0.0.0 ws2vs.com
 0.0.0.0 ww88club.com
+0.0.0.0 www-989bet.com
 0.0.0.0 www-c54.com
 0.0.0.0 www-ee88.com
 0.0.0.0 www.0066130.com
@@ -6457,6 +6502,7 @@
 0.0.0.0 www.123b.bet
 0.0.0.0 www.123b.com
 0.0.0.0 www.123b.org
+0.0.0.0 www.123bdly.com
 0.0.0.0 www.123win.pro
 0.0.0.0 www.12b99.com
 0.0.0.0 www.157win.com
@@ -6584,6 +6630,7 @@
 0.0.0.0 www.bk8h.com
 0.0.0.0 www.bk8hot.com
 0.0.0.0 www.bk8i.com
+0.0.0.0 www.bk8mys68.asia
 0.0.0.0 www.bk8p.com
 0.0.0.0 www.bk8ping.com
 0.0.0.0 www.bk8so1.com
@@ -6693,6 +6740,7 @@
 0.0.0.0 www.god55viet.com
 0.0.0.0 www.h3bet.com
 0.0.0.0 www.happynb.com
+0.0.0.0 www.hb88031.com
 0.0.0.0 www.hb88032.com
 0.0.0.0 www.hb8864.com
 0.0.0.0 www.hb8887.com
@@ -6803,6 +6851,8 @@
 0.0.0.0 www.mibet.com
 0.0.0.0 www.mibet.mobi
 0.0.0.0 www.mibet88.com
+0.0.0.0 www.minicasino.io
+0.0.0.0 www.minivn.com
 0.0.0.0 www.ms3388.com
 0.0.0.0 www.ms88asia.com
 0.0.0.0 www.ms88ca.com
@@ -6879,6 +6929,7 @@
 0.0.0.0 www.st66602.com
 0.0.0.0 www.st66606.com
 0.0.0.0 www.sun.win
+0.0.0.0 www.sv66qc9.com
 0.0.0.0 www.sv66s.com
 0.0.0.0 www.sv88.com
 0.0.0.0 www.sv88.vip
@@ -9699,9 +9750,9 @@
 0.0.0.0 zodiacu.com
 0.0.0.0 zpisportbk.com
 # Title: hostsVN Adult
-# Last modified: 28 Aug 2023 22:27 UTC+7
-# Version: 2308282227
-# Blocked: 3,380 domains
+# Last modified: 08 Sep 2023 14:08 UTC+7
+# Version: 2309081408
+# Blocked: 3,385 domains
 # Only include adult domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -9722,6 +9773,7 @@
 0.0.0.0 12hdem.com
 0.0.0.0 1phimsex.vip
 0.0.0.0 1pondohd.com
+0.0.0.0 2089.vntopg88.live
 0.0.0.0 210vn.net
 0.0.0.0 247live.mobi
 0.0.0.0 24hchudu.com
@@ -10646,6 +10698,7 @@
 0.0.0.0 kieunuvadaigia.xyz
 0.0.0.0 kieunuviet.xyz
 0.0.0.0 kphimsex.xyz
+0.0.0.0 ktv.bio
 0.0.0.0 kute3x.net
 0.0.0.0 kynu.live
 0.0.0.0 kynudanang.link
@@ -12291,6 +12344,7 @@
 0.0.0.0 topapp.vin
 0.0.0.0 topapplive.com
 0.0.0.0 topbot.pro
+0.0.0.0 topg88.live
 0.0.0.0 topgaigoi.us
 0.0.0.0 topgaixinh.com
 0.0.0.0 topgaixinh.net
@@ -12645,6 +12699,8 @@
 0.0.0.0 vnok.net
 0.0.0.0 vnphimsex.info
 0.0.0.0 vnshow.cc
+0.0.0.0 vntopg88.live
+0.0.0.0 vntopg88.vip
 0.0.0.0 vnxnxx.cc
 0.0.0.0 vnxnxx.pro
 0.0.0.0 vnxnxx.xyz
@@ -16976,7 +17032,7 @@
 0.0.0.0 cast13.porngo.com
 0.0.0.0 cast14.porngo.com
 0.0.0.0 cast15.porngo.com
-0.0.0.0 cast.porngo.com #.
+0.0.0.0 cast.porngo.com.
 0.0.0.0 cast.xxxfiles.com
 0.0.0.0 castingcouch-x.com
 0.0.0.0 castingcouchxfan.com
@@ -44306,7 +44362,6 @@
 0.0.0.0 4yourhardstuff.com
 0.0.0.0 50plusmilfs.com
 0.0.0.0 50yearoldsluts.com
-0.0.0.0 51.89.232.63
 0.0.0.0 520cc.tw
 0.0.0.0 52fikir.biz
 0.0.0.0 555.porn
@@ -44353,7 +44408,6 @@
 0.0.0.0 8ten.club
 0.0.0.0 8xxxhd.com
 0.0.0.0 911asians.com
-0.0.0.0 93.115.61.56
 0.0.0.0 94ero.com
 0.0.0.0 999hentai.to
 0.0.0.0 999hentai.tv
@@ -45095,8 +45149,6 @@
 0.0.0.0 arabysexy.mobi
 0.0.0.0 arbada.com
 0.0.0.0 arceleb.wordpress.com
-0.0.0.0 archive.ph #/gKMcR
-0.0.0.0 archive.vn #/6hOf5
 0.0.0.0 archontis.ru
 0.0.0.0 ardentmums.com
 0.0.0.0 area51-porn.ru
@@ -45504,7 +45556,7 @@
 0.0.0.0 beeg.co.hu
 0.0.0.0 beeg.day
 0.0.0.0 beeg.family
-0.0.0.0 beeg.globa #0.0.0.0 l
+0.0.0.0 beeg.globa0.0.0.0 # l
 0.0.0.0 beeg.icu
 0.0.0.0 beeg.kim
 0.0.0.0 beeg.mom
@@ -47416,7 +47468,6 @@
 0.0.0.0 epornum.hu
 0.0.0.0 equbits.com
 0.0.0.0 era-platform.eu
-0.0.0.0 erenoiba.fun #/
 0.0.0.0 eretroporn.com
 0.0.0.0 erett.sex.hu
 0.0.0.0 erett.szex.hu
@@ -47629,7 +47680,6 @@
 0.0.0.0 exposedlatinas.com
 0.0.0.0 expressretro.com
 0.0.0.0 expxxx.com
-0.0.0.0 exsite.pl #/erotyka-18
 0.0.0.0 extra-porno.cz
 0.0.0.0 extraasian.com
 0.0.0.0 extralunchmoney.com
@@ -47710,7 +47760,6 @@
 0.0.0.0 fantasies-girls.com
 0.0.0.0 fantasy4you.info
 0.0.0.0 fap-nation-com.ru
-0.0.0.0 fap-nation.com #/dating-my-daughter
 0.0.0.0 fap.bar
 0.0.0.0 fap.com
 0.0.0.0 fap.cool
@@ -48397,7 +48446,6 @@
 0.0.0.0 freexxxland.al
 0.0.0.0 freexxxmovies.biz
 0.0.0.0 freexxxpages.net
-0.0.0.0 freexxxporn.fun #/
 0.0.0.0 freexxxporn.org
 0.0.0.0 freexxxteeny.com
 0.0.0.0 freexxxtv.online
@@ -48406,6 +48454,7 @@
 0.0.0.0 freierporno.mobi
 0.0.0.0 freierporno.video
 0.0.0.0 freipornos.com
+0.0.0.0 freipornos.com0.0.1 # www.sadnewsex.com
 0.0.0.0 frenchp0rn.com
 0.0.0.0 fresh-n-tender.com
 0.0.0.0 freshasianporn.com
@@ -52342,7 +52391,7 @@
 0.0.0.0 mom4k.com
 0.0.0.0 mom50.com
 0.0.0.0 momanalfuck.com
-0.0.0.0 momandsons #0.0.0.0 ex.pro
+0.0.0.0 momandsons0.0.0.0 # ex.pro
 0.0.0.0 momandyoungboys.com
 0.0.0.0 momboy.pro
 0.0.0.0 momboyxxx.net
@@ -52410,7 +52459,7 @@
 0.0.0.0 momsonincestporn.me
 0.0.0.0 momsonpornincesthomesex.com
 0.0.0.0 momsonpornincestxxx.com
-0.0.0.0 momsontube.pro #0.0.0.0
+0.0.0.0 momsontube.pro0.0.0.0
 0.0.0.0 momsp.com
 0.0.0.0 momspickup.com
 0.0.0.0 momspics.net
@@ -52753,7 +52802,6 @@
 0.0.0.0 naked-society.com
 0.0.0.0 naked-teens.me
 0.0.0.0 naked.chiks.org
-0.0.0.0 naked.picsvirgin.top #/
 0.0.0.0 naked.xxxyoung.life
 0.0.0.0 nakedarabgirls.pro
 0.0.0.0 nakedasian.xyz
@@ -52816,7 +52864,6 @@
 0.0.0.0 nakedparty.top
 0.0.0.0 nakedpics.ca
 0.0.0.0 nakedpics.fun
-0.0.0.0 nakedpicstop.top #/
 0.0.0.0 nakedporn.top
 0.0.0.0 nakedpornstarspics.com
 0.0.0.0 nakedpussygirls.net
@@ -53145,7 +53192,6 @@
 0.0.0.0 nudeafrica.click
 0.0.0.0 nudeafricantwat.com
 0.0.0.0 nudeandcute.com
-0.0.0.0 nudeangels.top #/
 0.0.0.0 nudeartstars.com
 0.0.0.0 nudeasiangirls.net
 0.0.0.0 nudeasiangirls.xyz
@@ -54401,7 +54447,6 @@
 0.0.0.0 porno-sex.ro
 0.0.0.0 porno-szex.hu
 0.0.0.0 porno-sztarok.hu
-0.0.0.0 porno-teen-pizde-fine
 0.0.0.0 porno-videa-zdarma.cz
 0.0.0.0 porno-videa.tv
 0.0.0.0 porno-video.cc
@@ -54446,7 +54491,6 @@
 0.0.0.0 pornoaer.me
 0.0.0.0 pornoaer.ru
 0.0.0.0 pornoaid.com
-0.0.0.0 pornoalfa.com #/
 0.0.0.0 pornoamador.blog
 0.0.0.0 pornoamateurlatino.net
 0.0.0.0 pornoamateurvip.xxx
@@ -54475,6 +54519,7 @@
 0.0.0.0 pornobrazzers.com
 0.0.0.0 pornobriz.com
 0.0.0.0 pornobrot.com
+0.0.0.0 pornobrot.com0.0.0.0
 0.0.0.0 pornobump.com
 0.0.0.0 pornocafajeste.com
 0.0.0.0 pornocams.com
@@ -54922,7 +54967,6 @@
 0.0.0.0 portalangels.com.sapo.pt
 0.0.0.0 porzo.com
 0.0.0.0 porzo.tv
-0.0.0.0 posefamily.com #/
 0.0.0.0 poseyoung.com
 0.0.0.0 poshgay.com
 0.0.0.0 postyourflasher.com
@@ -56291,7 +56335,6 @@
 0.0.0.0 shiptome.ru
 0.0.0.0 shitting.jerkoffgalleries.com
 0.0.0.0 shlick.it
-0.0.0.0 shocking.picsvirgin.top #/
 0.0.0.0 shockingteens.pro
 0.0.0.0 shockingteenspics.com
 0.0.0.0 shooshtime.club
@@ -56448,7 +56491,6 @@
 0.0.0.0 socaseiras.com.br
 0.0.0.0 socialmediapornstars.com
 0.0.0.0 socoroas.net
-0.0.0.0 socutegirls.top #/
 0.0.0.0 sodotados.com
 0.0.0.0 soft-babez.cc
 0.0.0.0 soft-porn.net
@@ -57571,7 +57613,6 @@
 0.0.0.0 torturiser.com
 0.0.0.0 totalfucktube.com
 0.0.0.0 totalgals.com
-0.0.0.0 totallpuss.in #/
 0.0.0.0 totally-naked-girls.com
 0.0.0.0 totallyfreecam.com
 0.0.0.0 totallynakedteens.com
@@ -59457,6 +59498,7 @@
 0.0.0.0 www.ebooxa.com
 0.0.0.0 www.echte-ficktreffen.com
 0.0.0.0 www.echterporno.com
+0.0.0.0 www.echterporno.com0.0.0.0
 0.0.0.0 www.echtsexgeschichten.com
 0.0.0.0 www.edgequeens.com
 0.0.0.0 www.egoallstars.com
@@ -59690,6 +59732,7 @@
 0.0.0.0 www.frei-ficken.com
 0.0.0.0 www.freieporno.com
 0.0.0.0 www.freierporno.mobi
+0.0.0.0 www.freierporno.mobi0.0.1 # www.sadnewsex.com
 0.0.0.0 www.freihdporn.mobi
 0.0.0.0 www.freipornos.com
 0.0.0.0 www.freipornos.mobi
@@ -61077,6 +61120,7 @@
 0.0.0.0 www.sexeda.com
 0.0.0.0 www.sexegypt.co
 0.0.0.0 www.sexente.com
+0.0.0.0 www.sexente.com0.0.0.0
 0.0.0.0 www.sexfilme-gratis.com
 0.0.0.0 www.sexfilme.net
 0.0.0.0 www.sexfilme.xxx
@@ -61434,6 +61478,7 @@
 0.0.0.0 www.ucosi.com
 0.0.0.0 www.uiporn.com
 0.0.0.0 www.ujizz.xxx
+0.0.0.0 www.ujizz.xxx0.0.0.0
 0.0.0.0 www.ujizzcn.com
 0.0.0.0 www.uk-tgirls.com
 0.0.0.0 www.ukradena-videa.cz
