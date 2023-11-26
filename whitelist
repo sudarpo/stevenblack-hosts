@@ -39,4 +39,14 @@ aws.amazon.com
 click.email.bbc.com
 click.email.sonos.com
 
+cloudflare.com
+cloudflareclient.com
+cloudflareaccess.com
+cloudflareportal.com
+cloudflareok.com
+cloudflarecp.com
+cloudflared-dns.com
+static.cloudflareinsights.com
+metrics.cloudflarebolt.com
+
 # END--SC Whitelist
