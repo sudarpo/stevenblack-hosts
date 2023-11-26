@@ -2667,15 +2667,12 @@
 0.0.0.0 i.jsrdn.com
 0.0.0.0 lb.eu-1-id5-sync.com
 0.0.0.0 live-media-lln.warnermediacdn.com
-0.0.0.0 www.freecodecamp.org
 0.0.0.0 zion.api.cnn.io
 
 # Added November 25, 2023
-0.0.0.0 ajax.googleapis.com
 0.0.0.0 bucket.cdnwebcloud.com
 0.0.0.0 c23811bc8d067cdb4f00f6af2c918f3d.safeframe.googlesyndication.com
 0.0.0.0 cadmus.script.ac
-0.0.0.0 cdn.jsdelivr.net
 0.0.0.0 cdn.topsrvimp.com
 0.0.0.0 cookies.nextmillmedia.com
 0.0.0.0 didna.b-cdn.net
