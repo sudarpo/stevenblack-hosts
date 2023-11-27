@@ -1,19 +1,14 @@
 # SC Whitelist
+
+# [Microsoft]
 data.microsoft.com
 aria.microsoft.com
-# telemetry.microsoft.com
 smartscreen.microsoft.com
 officeapps.live.com
 microsoftemail.com
+# telemetry.microsoft.com
 
-en25.com
-whatsapp.com
-whatsapp.net
-linkedin.com
-amazon.com
-instagram.com
-cdninstagram.com
-
+# [Reddit]
 reddit.com
 redditstatic.com
 redditmedia.com
@@ -22,23 +17,16 @@ preview.redd.it
 redd.it
 redditmail.com
 
+# [Twitter]
 twitter.com
 twimg.com
 
+# [split.io]
 split.io
 sdk.split.io
 events.split.io
 
-cisecurity.org
-
-singaporepools.com
-singaporepools.com.sg
-
-aws.amazon.com
-
-click.email.bbc.com
-click.email.sonos.com
-
+# [cloudflare]
 cloudflare.com
 cloudflareclient.com
 cloudflareaccess.com
@@ -48,5 +36,25 @@ cloudflarecp.com
 cloudflared-dns.com
 static.cloudflareinsights.com
 metrics.cloudflarebolt.com
+
+singaporepools.com
+singaporepools.com.sg
+
+amazon.com
+aws.amazon.com
+
+en25.com
+whatsapp.com
+whatsapp.net
+linkedin.com
+cisecurity.org
+instagram.com
+cdninstagram.com
+
+click.email.bbc.com
+click.email.sonos.com
+
+cdn.jsdelivr.net
+ajax.googleapis.com
 
 # END--SC Whitelist
