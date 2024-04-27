@@ -3,10 +3,10 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 18 April 2024 14:36:50 (UTC)
+# Date: 25 April 2024 14:22:30 (UTC)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: fakenews, gambling, porn, social
-# Number of unique domains: 97,328
+# Number of unique domains: 97,413
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn-social-only/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -2213,9 +2213,9 @@
 0.0.0.0 yubasuttertimes.com
 0.0.0.0 zombie.news
 # Title: hostsVN Gambling
-# Last modified: 18 Apr 2024 16:44 UTC+7
-# Version: 2404181644
-# Blocked: 5,492 domains
+# Last modified: 24 Apr 2024 22:50 UTC+7
+# Version: 2404242250
+# Blocked: 5,511 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -2348,6 +2348,7 @@
 0.0.0.0 1k98x.com
 0.0.0.0 1tamtam.com
 0.0.0.0 1tamtamvn.com
+0.0.0.0 1x.club
 0.0.0.0 1xbet88vn.net
 0.0.0.0 1xbetvn.com
 0.0.0.0 1xlite-564950.top
@@ -2938,6 +2939,7 @@
 0.0.0.0 banca.red88.us
 0.0.0.0 banca.xo68.vip
 0.0.0.0 bancadoithuongvn.com
+0.0.0.0 bancakings.com
 0.0.0.0 bancalucky88.com
 0.0.0.0 baowin.net
 0.0.0.0 bay789.club
@@ -3170,6 +3172,7 @@
 0.0.0.0 choingayiwin.cc
 0.0.0.0 choingayiwin.top
 0.0.0.0 choingayone88.win
+0.0.0.0 choiriikvip.today
 0.0.0.0 choisport.com
 0.0.0.0 choisv88.live
 0.0.0.0 choita88.club
@@ -3251,6 +3254,7 @@
 0.0.0.0 dabet.fun
 0.0.0.0 dabet.me
 0.0.0.0 dabet.top
+0.0.0.0 dabet.tv
 0.0.0.0 dabet.uk
 0.0.0.0 dabet.us
 0.0.0.0 dabet.win
@@ -3292,6 +3296,8 @@
 0.0.0.0 dangkyee88.online
 0.0.0.0 dangkygo88.in
 0.0.0.0 dangkykubet.vip
+0.0.0.0 dangkyrikvip.live
+0.0.0.0 dangkyrikvip.me
 0.0.0.0 dangkyrikvip.org
 0.0.0.0 dangkyrikvip.tv
 0.0.0.0 dangkythabet.com
@@ -3305,6 +3311,7 @@
 0.0.0.0 debet.club
 0.0.0.0 debet.com
 0.0.0.0 debet.info
+0.0.0.0 debet.net
 0.0.0.0 debet.top
 0.0.0.0 debet.win
 0.0.0.0 debet88.win
@@ -3466,6 +3473,7 @@
 0.0.0.0 fabet.live
 0.0.0.0 fabet.me
 0.0.0.0 fabet.net
+0.0.0.0 fabet.to
 0.0.0.0 fabet.tv
 0.0.0.0 fabet.us
 0.0.0.0 fabet.vip
@@ -3678,6 +3686,7 @@
 0.0.0.0 go88x.club
 0.0.0.0 go8vui.info
 0.0.0.0 go99.pro
+0.0.0.0 go99.red
 0.0.0.0 goal123.com
 0.0.0.0 goal68.com
 0.0.0.0 goal68.net
@@ -5327,6 +5336,8 @@
 0.0.0.0 kufun.win
 0.0.0.0 kuwaitfunddev.com
 0.0.0.0 kuwin.bet
+0.0.0.0 kuwin.com
+0.0.0.0 kuwinvip.com
 0.0.0.0 lambada-tx1app.fun
 0.0.0.0 langvuichoi.net
 0.0.0.0 ld99.club
@@ -5377,6 +5388,7 @@
 0.0.0.0 loto188vi.com
 0.0.0.0 loto66.com
 0.0.0.0 loto678.com
+0.0.0.0 lp.choiriikvip.today
 0.0.0.0 lp.choitet.vip
 0.0.0.0 lp.go8vui.info
 0.0.0.0 lp.macauclub.fun
@@ -5704,7 +5716,6 @@
 0.0.0.0 new88.ai
 0.0.0.0 new88.love
 0.0.0.0 new88.tips
-0.0.0.0 new88011.com
 0.0.0.0 new8803.com
 0.0.0.0 new8805.com
 0.0.0.0 new8808.vip
@@ -5915,6 +5926,7 @@
 0.0.0.0 profile.w88.vin
 0.0.0.0 prok8.com
 0.0.0.0 promotions.bcb80.com
+0.0.0.0 pt1.fabet.win
 0.0.0.0 pt66.vip
 0.0.0.0 ptwin6.com
 0.0.0.0 q0f2a.com
@@ -6045,6 +6057,7 @@
 0.0.0.0 s999e.com
 0.0.0.0 s999g.com
 0.0.0.0 s999h.com
+0.0.0.0 saigonbet.net
 0.0.0.0 sam86vip.org
 0.0.0.0 sam86vip.pro
 0.0.0.0 sam86vip.tv
@@ -6082,6 +6095,7 @@
 0.0.0.0 sin88.cc
 0.0.0.0 sin88.club
 0.0.0.0 sin88.mobi
+0.0.0.0 sin88.mx
 0.0.0.0 sin88.uk
 0.0.0.0 sin88.us
 0.0.0.0 sin88.vip
@@ -6524,6 +6538,7 @@
 0.0.0.0 udw881.cc
 0.0.0.0 udw886.com
 0.0.0.0 uer5.com
+0.0.0.0 uk88.com
 0.0.0.0 uk88.top
 0.0.0.0 umfgg.com
 0.0.0.0 unitygame.online
@@ -6579,6 +6594,7 @@
 0.0.0.0 vbet88.fun
 0.0.0.0 vebo.bet
 0.0.0.0 vegas79.casino
+0.0.0.0 vegas79.group
 0.0.0.0 vf003.xyz
 0.0.0.0 vf234.com
 0.0.0.0 vf456.com
@@ -6615,6 +6631,7 @@
 0.0.0.0 vinbet1001.com
 0.0.0.0 vinbet1005.com
 0.0.0.0 vip.8kbet.vn
+0.0.0.0 vip.dangkyrikvip.me
 0.0.0.0 vip.dangkyrikvip.tv
 0.0.0.0 vip.v99win.app
 0.0.0.0 vip11.club
@@ -6627,6 +6644,7 @@
 0.0.0.0 vipclub.homes
 0.0.0.0 vipclub.makeup
 0.0.0.0 vipclub.so
+0.0.0.0 viprik.pro
 0.0.0.0 viu88.com
 0.0.0.0 viva88.com
 0.0.0.0 viva88.net
@@ -6943,6 +6961,7 @@
 0.0.0.0 wp.rikvip.tv
 0.0.0.0 wp.rikvipp.net
 0.0.0.0 wp.sky88.fun
+0.0.0.0 wp.viprik.pro
 0.0.0.0 ws.vx88.com
 0.0.0.0 ws2vs.com
 0.0.0.0 ww88club.com
@@ -7098,6 +7117,7 @@
 0.0.0.0 www.b52.win
 0.0.0.0 www.b77.fun
 0.0.0.0 www.b77.life
+0.0.0.0 www.bancakings.com
 0.0.0.0 www.bcb80.com
 0.0.0.0 www.beb77.com
 0.0.0.0 www.bestcacuoc8.com
@@ -7377,7 +7397,6 @@
 0.0.0.0 www.mykubet.com
 0.0.0.0 www.nbet.com
 0.0.0.0 www.nemo.vin
-0.0.0.0 www.new88011.com
 0.0.0.0 www.new8808.vip
 0.0.0.0 www.nex8vn.com
 0.0.0.0 www.nhanthuong88.com
@@ -10340,8 +10359,8 @@
 0.0.0.0 luckia.pt
 0.0.0.0 luckylandslots.com
 # Title: hostsVN Adult
-# Last modified: 18 Apr 2024 16:44 UTC+7
-# Version: 2404181644
+# Last modified: 24 Apr 2024 22:50 UTC+7
+# Version: 2404242250
 # Blocked: 3,490 domains
 # Only include adult domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
@@ -57289,6 +57308,7 @@
 0.0.0.0 spicytranny.com
 0.0.0.0 spicytrannyhd.com
 0.0.0.0 spicyvintageporn.com
+0.0.0.0 spiegel.com
 0.0.0.0 spitzetitten.com
 0.0.0.0 spitzetitten.net
 0.0.0.0 spizoo-com.ru
@@ -61980,6 +62000,7 @@
 0.0.0.0 www.spermatube.be
 0.0.0.0 www.spicybigtits.com
 0.0.0.0 www.spicyporntrials.com
+0.0.0.0 www.spiegel.com
 0.0.0.0 www.squirtinglesbian.com
 0.0.0.0 www.srbam.com
 0.0.0.0 www.ssoft-android.ru
@@ -97278,8 +97299,10 @@
 0.0.0.0 p1-tt-ipv6.byteimg.com
 0.0.0.0 p1-tt.byteimg.com
 0.0.0.0 p16-ad-sg.ibyteimg.com
+0.0.0.0 p16-pu-sign-ie.tiktokcdn-eu.com
 0.0.0.0 p16-sign-sg.tiktokcdn.com
 0.0.0.0 p16-sign-va.tiktokcdn.com
+0.0.0.0 p16-sign.tiktokcdn-us.com
 0.0.0.0 p16-tiktok-sg.ibyteimg.com
 0.0.0.0 p16-tiktok-sign-va-h2.ibyteimg.com
 0.0.0.0 p16-tiktok-va-h2.ibyteimg.com
@@ -97287,6 +97310,9 @@
 0.0.0.0 p16-tiktokcdn-com.akamaized.net
 0.0.0.0 p16-va-tiktok.ibyteimg.com
 0.0.0.0 p16.hypstarcdn.com
+0.0.0.0 p16.tiktokcdn-us.com
+0.0.0.0 p19-pu-ie.tiktokcdn-eu.com
+0.0.0.0 p19-sign.tiktokcdn-us.com
 0.0.0.0 p26-tt.byteimg.com
 0.0.0.0 p3-tt-ipv6.byteimg.com
 0.0.0.0 p77-va.tiktokcdn.com
@@ -97313,6 +97339,7 @@
 0.0.0.0 rtlog.tiktokv.com
 0.0.0.0 s16.tiktokcdn.com
 0.0.0.0 s20.tiktokcdn.com
+0.0.0.0 search16-normal-useast2a.tiktokv.com
 0.0.0.0 sdfp-va.tiktokv.com
 0.0.0.0 sf-tb-sg.ibytedtos.com
 0.0.0.0 sf1-ttcdn-tos.pstatp.com
@@ -97373,12 +97400,16 @@
 0.0.0.0 ttoverseaus.net
 0.0.0.0 ttwstatic.com
 0.0.0.0 v16-tiktokcdn-com.akamaized.net
+0.0.0.0 v16m.tiktokcdn-eu.com
 0.0.0.0 v19.tiktokcdn.com
+0.0.0.0 v39.tiktokcdn-eu.com
 0.0.0.0 v51.tiktokcdn.com
 0.0.0.0 v53.tiktokcdn.com
+0.0.0.0 v58.tiktokcdn-eu.com
 0.0.0.0 v77.tiktokcdn.com
 0.0.0.0 verification-va.byteoversea.com
 0.0.0.0 verification-va.tiktokv.com
+0.0.0.0 webcast16-normal-c-useast2a.tiktokv.com
 0.0.0.0 www.musical.ly
 0.0.0.0 www.tiktok.com
 0.0.0.0 www.tiktok.in
@@ -97437,6 +97468,62 @@
 
 # TikTok clone
 0.0.0.0 likee.video
+
+#Snapchat
+0.0.0.0 accounts.snapchat.com
+0.0.0.0 api-kit.snapchat.com
+0.0.0.0 app-analytics-v2.snapchat.com
+0.0.0.0 app.snapchat.com
+0.0.0.0 asia-southeast1-gcp.api.snapchat.com
+0.0.0.0 aws.api.snapchat.com
+0.0.0.0 aws-cf.api.snapchat.com
+0.0.0.0 aws.duplex.snapchat.com
+0.0.0.0 aws-proxy-gcp.api.snapchat.com
+0.0.0.0 bitmoji.api.snapchat.com
+0.0.0.0 chat-gateway-prod.chat.snapchat.com
+0.0.0.0 click.snapchat.com
+0.0.0.0 direct-response-gcp.api.snapchat.com
+0.0.0.0 europe-west1-gcp.api.snapchat.com
+0.0.0.0 gcp.api.snapchat.com
+0.0.0.0 help.snapchat.com
+0.0.0.0 hoops.games.snapchat.com
+0.0.0.0 intg.snapchat.com
+0.0.0.0 jaguar-prod.snapchat.com
+0.0.0.0 lens.games.snapchat.com
+0.0.0.0 lens.snapchat.com
+0.0.0.0 link.snapchat.com
+0.0.0.0 mvm.snapchat.com
+0.0.0.0 premium-stories.snapchat.com
+0.0.0.0 pro-accounts.snapchat.com
+0.0.0.0 pro-stories.snapchat.com
+0.0.0.0 share.snapchat.com
+0.0.0.0 shows.snapchat.com
+0.0.0.0 sks.snapchat.com
+0.0.0.0 snapchat.com
+0.0.0.0 staging-us-east1-aws.api.snapchat.com
+0.0.0.0 static.snapchat.com
+0.0.0.0 story.snapchat.com
+0.0.0.0 support.snapchat.com
+0.0.0.0 topic-sticker-vending.snapchat.com
+0.0.0.0 tr6.snapchat.com
+0.0.0.0 tr.snapchat.com
+0.0.0.0 t.snapchat.com
+0.0.0.0 usc1-gcp-v61.api.snapchat.com
+0.0.0.0 usc1-gcp-v62.api.snapchat.com
+0.0.0.0 us-central1-gcp.api.snapchat.com
+0.0.0.0 use4-gcp-v4.api.snapchat.com
+0.0.0.0 use4-gcp-v6.api.snapchat.com
+0.0.0.0 us-east1-aws-acc.api.snapchat.com
+0.0.0.0 us-east1-aws-acc-test.api.snapchat.com
+0.0.0.0 us-east1-aws.api.snapchat.com
+0.0.0.0 us-east1-aws-cf.api.snapchat.com
+0.0.0.0 us-east1-aws.gateway.snapchat.com
+0.0.0.0 us-east-1-bitmoji.api.snapchat.com
+0.0.0.0 us-east4-gcp.api.snapchat.com
+0.0.0.0 us-east4-gcp-ineg.api.snapchat.com
+0.0.0.0 webattachments.snapchat.com
+0.0.0.0 web.snapchat.com
+0.0.0.0 www.snapchat.com
 
 # Other
 0.0.0.0 pinpages.alwaysdata.net
