@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 03 Nov 2024 16:26 UTC+7
-# Version: 2411031626
-# Blocked: 1,898 domains
+# Last modified: 14 Nov 2024 10:49 UTC+7
+# Version: 2411141049
+# Blocked: 1,902 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1309,6 +1309,7 @@
 0.0.0.0 adnetwork-adserver.aiactiv.io
 0.0.0.0 adnetwork-core-lb7.aiactiv.io
 0.0.0.0 adnetwork-core.aiactiv.io
+0.0.0.0 adnetwork-tracking-proxy.aiactiv.io
 0.0.0.0 aiactiv.io
 0.0.0.0 identify.aiactiv.io
 0.0.0.0 sdk-cdn.aiactiv.io
@@ -1803,6 +1804,7 @@
 0.0.0.0 analytic.proxyme.link
 0.0.0.0 analytic.thuanbui.me
 0.0.0.0 analytic.vnanet.vn
+0.0.0.0 analytics-cds.mobiedu.vn
 0.0.0.0 analytics.admon.com.vn
 0.0.0.0 analytics.aita.gov.vn
 0.0.0.0 analytics.amedigital.vn
@@ -1819,6 +1821,7 @@
 0.0.0.0 analytics.hebela.vn
 0.0.0.0 analytics.hub-js.com
 0.0.0.0 analytics.jamstackvietnam.com
+0.0.0.0 analytics.mobiedu.vn
 0.0.0.0 analytics.molistar.com
 0.0.0.0 analytics.moneycat.vn
 0.0.0.0 analytics.nhattao.com
@@ -2075,6 +2078,7 @@
 0.0.0.0 trk.123c.vn
 0.0.0.0 trk.staging.123c.vn
 0.0.0.0 upl.net-solutions.vn
+0.0.0.0 us.mplis.gov.vn
 0.0.0.0 userstats.shopee.vn
 0.0.0.0 vieon-tracking.vieon.vn
 0.0.0.0 vietnamdaily-log.kienthuc.net.vn
