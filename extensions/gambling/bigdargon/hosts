@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling VN
-# Last modified: 21 Oct 2025 11:13 UTC+7
-# Version: 2510211113
-# Blocked: 4.028 domains
+# Last modified: 10 Nov 2025 10:27 UTC+7
+# Version: 2511101027
+# Blocked: 4.045 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -488,12 +488,14 @@
 0.0.0.0 api.nbet.vin
 0.0.0.0 api.oppa888.com
 0.0.0.0 api.oppa88888888.com
+0.0.0.0 api.red88.club
 0.0.0.0 api.red88.com
 0.0.0.0 api.red88.us
 0.0.0.0 api.red88.vin
 0.0.0.0 api.red88.vip
 0.0.0.0 api.shbet3.com
 0.0.0.0 api.shbetvv.com
+0.0.0.0 api.sky88.club
 0.0.0.0 api.sky88.com
 0.0.0.0 api.sky88.fun
 0.0.0.0 api.st666.win
@@ -770,6 +772,7 @@
 0.0.0.0 choihitclub.fun
 0.0.0.0 choiiwin79.fun
 0.0.0.0 choiiwin79.vip
+0.0.0.0 choikclub.vip
 0.0.0.0 choilawin.net
 0.0.0.0 choingay11b.mobi
 0.0.0.0 choingay11b.vin
@@ -783,6 +786,7 @@
 0.0.0.0 choita88.club
 0.0.0.0 choitet.vip
 0.0.0.0 choithomo.com
+0.0.0.0 choitip88.me
 0.0.0.0 choivin88.us
 0.0.0.0 choiwin79.in
 0.0.0.0 choiwon88.info
@@ -1246,9 +1250,12 @@
 0.0.0.0 go88tv.win
 0.0.0.0 go88vn.live
 0.0.0.0 go88vn.vip
+0.0.0.0 go99.games
 0.0.0.0 go99.green
 0.0.0.0 go99.pro
 0.0.0.0 go99.red
+0.0.0.0 go99code.store
+0.0.0.0 go99code.vip
 0.0.0.0 goal123.com
 0.0.0.0 goal68.com
 0.0.0.0 god55.zone
@@ -1275,6 +1282,7 @@
 0.0.0.0 hb88p.com
 0.0.0.0 hb88vn.co
 0.0.0.0 hbet.net
+0.0.0.0 hbet.win
 0.0.0.0 hcm66.com
 0.0.0.0 hdbet.com
 0.0.0.0 hi.oppa888.com
@@ -1317,6 +1325,7 @@
 0.0.0.0 hotlive8.vip
 0.0.0.0 hplay.fabet.me
 0.0.0.0 i.b52.club
+0.0.0.0 i.go88.ca
 0.0.0.0 i.go88.com
 0.0.0.0 i.go88.org
 0.0.0.0 i.go88.top
@@ -2461,6 +2470,7 @@
 0.0.0.0 quaysogame.com
 0.0.0.0 quickraiseup.com
 0.0.0.0 record.income88.com
+0.0.0.0 red88.club
 0.0.0.0 red88.com
 0.0.0.0 red88.top
 0.0.0.0 red88.tv
@@ -2589,6 +2599,7 @@
 0.0.0.0 sk.vin88.net
 0.0.0.0 sk.xibet.com
 0.0.0.0 sky88.bet
+0.0.0.0 sky88.club
 0.0.0.0 sky88.com
 0.0.0.0 sky88.fun
 0.0.0.0 sky88.in
@@ -2610,10 +2621,12 @@
 0.0.0.0 sock.mu9.com
 0.0.0.0 sock.nbet.fan
 0.0.0.0 sock.nbet.vin
+0.0.0.0 sock.red88.club
 0.0.0.0 sock.red88.com
 0.0.0.0 sock.red88.us
 0.0.0.0 sock.red88.vin
 0.0.0.0 sock.red88.vip
+0.0.0.0 sock.sky88.club
 0.0.0.0 sock.sky88.com
 0.0.0.0 sock.sky88.fun
 0.0.0.0 sock.sky88.in
@@ -3379,11 +3392,13 @@
 0.0.0.0 wp.nbet.fan
 0.0.0.0 wp.nbet.to
 0.0.0.0 wp.nbet.vin
+0.0.0.0 wp.red88.club
 0.0.0.0 wp.red88.com
 0.0.0.0 wp.red88.us
 0.0.0.0 wp.red88.vin
 0.0.0.0 wp.red88.vip
 0.0.0.0 wp.rikvip.tv
+0.0.0.0 wp.sky88.club
 0.0.0.0 wp.sky88.com
 0.0.0.0 wp.sky88.fun
 0.0.0.0 wp.topbet.net
@@ -3786,6 +3801,7 @@
 0.0.0.0 www.sin88.club
 0.0.0.0 www.sin88s.com
 0.0.0.0 www.sinbet.vip
+0.0.0.0 www.sky88.club
 0.0.0.0 www.sky88.win
 0.0.0.0 www.socvip9.club
 0.0.0.0 www.sodo.host
@@ -3950,6 +3966,7 @@
 0.0.0.0 x8.club
 0.0.0.0 x8.games
 0.0.0.0 x8.mobi
+0.0.0.0 x88.com
 0.0.0.0 x8vn.com
 0.0.0.0 x8vn.top
 0.0.0.0 xemdabanh.club

@@ -1303,7 +1303,6 @@
 0.0.0.0 ads.samsungads.com
 0.0.0.0 config.samsungads.com
 0.0.0.0 events.samsungads.com
-0.0.0.0 oempprd.samsungcloudsolution.com
 0.0.0.0 vdterms.samsungcloudsolution.com
 0.0.0.0 oempprd.samsungcloudsolution.net
 0.0.0.0 invitation.samsungiotcloud.com
@@ -3074,3 +3073,11 @@
 # Added October 12, 2025
 0.0.0.0 xpoalswwkjddsljsy.com
 0.0.0.0 xoiiasdpsdoasdpojas.com
+
+# Added November 7, 2025
+0.0.0.0 d2.ads.rmbl.ws
+0.0.0.0 a.ads.rmbl.ws
+
+# Added November 11, 2025
+st5fdbvs.r.us-east-1.awstrack.me
+fullgamingacc.com
