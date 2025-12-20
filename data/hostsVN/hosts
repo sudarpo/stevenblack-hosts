@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 21 Nov 2025 15:27 UTC+7
-# Version: 2511211527
-# Blocked: 1.777 domains
+# Last modified: 16 Dec 2025 16:23 UTC+7
+# Version: 2512161623
+# Blocked: 1.778 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -1704,6 +1704,7 @@
 0.0.0.0 analytics.moneycat.vn
 0.0.0.0 analytics.nhattao.com
 0.0.0.0 analytics.ntlc.com.vn
+0.0.0.0 analytics.onflix.vip
 0.0.0.0 analytics.pancake.vn
 0.0.0.0 analytics.rever.vn
 0.0.0.0 analytics.sohatv.vn
