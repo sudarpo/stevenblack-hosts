@@ -10,7 +10,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Tue, 24 Feb 2026 at 22:16:38 GMT
+# Last updated: Sat, 28 Feb 2026 at 01:16:02 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -2675,6 +2675,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 platinmods.fr
 0.0.0.0 playbaspresse.fr
 0.0.0.0 playmobill.fr
+0.0.0.0 playstogether.live
 0.0.0.0 playzee.fr
 0.0.0.0 plusjamaisdacne.fr
 0.0.0.0 pocoty.fr
@@ -3175,6 +3176,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.anatol.com
 0.0.0.0 www.apcort.com
 0.0.0.0 www.aramcom.space
+0.0.0.0 www.arknasasbluecross.com
 0.0.0.0 www.asianread.com
 0.0.0.0 www.audacity.es
 0.0.0.0 www.audacity.fr
@@ -3217,6 +3219,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.clipsfan.com
 0.0.0.0 www.clonezilla.es
 0.0.0.0 www.clonezilla.fr
+0.0.0.0 www.cloudverge.uk
 0.0.0.0 www.coinimp.com
 0.0.0.0 www.comfortykive.xyz
 0.0.0.0 www.compufixshop.com
@@ -3240,6 +3243,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.e-transfer-cra.com
 0.0.0.0 www.eaglesfanclub.com
 0.0.0.0 www.edashealthcare.com
+0.0.0.0 www.edwardmartino.com
 0.0.0.0 www.exvaro.cfd
 0.0.0.0 www.faggotry.com
 0.0.0.0 www.farnazinternational.com
@@ -3252,6 +3256,8 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.fischereszter.hu
 0.0.0.0 www.flexibleadmin.com
 0.0.0.0 www.fmoviehd.com
+0.0.0.0 www.fortunoxx.com
+0.0.0.0 www.frbonusjeux.com
 0.0.0.0 www.freecontent.bid
 0.0.0.0 www.freedailydownload.com
 0.0.0.0 www.fripta.com
@@ -3265,6 +3271,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.gentleshadeox.pro
 0.0.0.0 www.getnexuscard.com
 0.0.0.0 www.gezinti.com
+0.0.0.0 www.gildedrosens.name
 0.0.0.0 www.gimp.es
 0.0.0.0 www.globalbuffer.com
 0.0.0.0 www.goggle.com
@@ -3285,9 +3292,11 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.hauloot.com
 0.0.0.0 www.helvax.cfd
 0.0.0.0 www.hiewa.com.my
+0.0.0.0 www.hitchedbridalandformalwear.com
 0.0.0.0 www.hypeprop.com
 0.0.0.0 www.icbc-ltd.com
 0.0.0.0 www.icecars.com
+0.0.0.0 www.icyhivemy.name
 0.0.0.0 www.iejonline.com
 0.0.0.0 www.igameup.com
 0.0.0.0 www.infopaypal.com
@@ -3297,11 +3306,16 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.inkscape.fr
 0.0.0.0 www.iovenesweb.com
 0.0.0.0 www.irony.world
+0.0.0.0 www.janushnderson.com
+0.0.0.0 www.jeuxfortuna.com
+0.0.0.0 www.jovareo.com
 0.0.0.0 www.jvidzaixian.com
 0.0.0.0 www.jvzoo.com
+0.0.0.0 www.kahramananas.com
 0.0.0.0 www.keepass.com
 0.0.0.0 www.keepass.fr
 0.0.0.0 www.keybinary.com
+0.0.0.0 www.khanomtour.com
 0.0.0.0 www.kindwebdg.site
 0.0.0.0 www.kittayaroyalbeauty.com
 0.0.0.0 www.knowinteractive.com
@@ -3320,10 +3334,12 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.maillazy.com
 0.0.0.0 www.makearestaurant.com
 0.0.0.0 www.manoces.waw.pl
+0.0.0.0 www.mediamindpolska.com
 0.0.0.0 www.mikras.nl
 0.0.0.0 www.milkycascadeut.site
 0.0.0.0 www.minr.pw
 0.0.0.0 www.modelsailboat.net
+0.0.0.0 www.moncasinoonline.com
 0.0.0.0 www.monkeyball.osa.pl
 0.0.0.0 www.monkikitchen.com
 0.0.0.0 www.mshelp247.weebly.com
@@ -3339,6 +3355,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.nu26.com
 0.0.0.0 www.nuntioz.com
 0.0.0.0 www.nwbidrtb.com
+0.0.0.0 www.nzgamingworld.com
 0.0.0.0 www.objectopoly.info
 0.0.0.0 www.oix.com
 0.0.0.0 www.oletipmegroup.com
@@ -3363,6 +3380,9 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.phormlabs.com
 0.0.0.0 www.photomagicapp.com
 0.0.0.0 www.picture-uploads.com
+0.0.0.0 www.pinbroksup.com
+0.0.0.0 www.pintransup.com
+0.0.0.0 www.pintravelup.com
 0.0.0.0 www.pinupspinup.com
 0.0.0.0 www.portaldimensional.com
 0.0.0.0 www.portlanfleathergoods.com
@@ -3375,12 +3395,16 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.proxionet.com
 0.0.0.0 www.pruialoatpmye.xyz
 0.0.0.0 www.psychics-readings-for-free.com
+0.0.0.0 www.ptcasinoonline.com
 0.0.0.0 www.qateee.com
 0.0.0.0 www.qbittorrent.com
 0.0.0.0 www.rackusread.com
 0.0.0.0 www.rajtoursdubai.com
 0.0.0.0 www.randki-sex.com
+0.0.0.0 www.reandrogames.com
+0.0.0.0 www.rekonsise.com
 0.0.0.0 www.renderfoest.com
+0.0.0.0 www.rerminix.com
 0.0.0.0 www.rickrolling.com
 0.0.0.0 www.rtkmyz.cfd
 0.0.0.0 www.russian-sex.com
@@ -3394,15 +3418,18 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.sinera.org
 0.0.0.0 www.skibidihotel.com
 0.0.0.0 www.smionecare.com
+0.0.0.0 www.smokyshadecj.name
 0.0.0.0 www.softmillon.com
 0.0.0.0 www.spectrumhomehealthinc.com
 0.0.0.0 www.ssl2.in
 0.0.0.0 www.statsff.com
 0.0.0.0 www.stellarium.fr
+0.0.0.0 www.stihil.com
 0.0.0.0 www.stopphoulplay.com
 0.0.0.0 www.strongarchzu.com
 0.0.0.0 www.studioorientbay.com
 0.0.0.0 www.swallowwire.sa.com
+0.0.0.0 www.sweetdominique.com
 0.0.0.0 www.sweetiesecrets.com
 0.0.0.0 www.tanger.com.br
 0.0.0.0 www.tattooshaha.info			# Facebook trojan
@@ -3417,6 +3444,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.trucktirehotline.com
 0.0.0.0 www.truecrypt.fr
 0.0.0.0 www.trueshelterju.pro
+0.0.0.0 www.tvrails.com
 0.0.0.0 www.tvshowslist.com
 0.0.0.0 www.unetbootin.net
 0.0.0.0 www.unetbootin.org
@@ -3444,8 +3472,10 @@ ff02::3		ip6-allhosts
 0.0.0.0 www.winecrazydesigns.com
 0.0.0.0 www.winlottofrequently.com
 0.0.0.0 www.wrestlewebnews.com
+0.0.0.0 www.xtremetechcr.com
 0.0.0.0 www.yendermsoul.com
 0.0.0.0 www.youfiletor.com
+0.0.0.0 www.yreta.com
 0.0.0.0 www.zenithvault.uk
 0.0.0.0 www.zippylakeri.name
 0.0.0.0 www1-van-city-signon.com
