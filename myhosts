@@ -1,5 +1,6 @@
 # SC Custom Records
-192.168.50.99  chongs1
+192.168.50.1  sudarpo331.asuscomm.com
+192.168.50.1  sudarpo331-be92u.asuscomm.com
 
 127.0.0.1  public.lab
 127.0.0.1  service.lab
@@ -13,10 +14,10 @@
 127.0.0.1  agency.lab
 127.0.0.1  public.agency.lab
 127.0.0.1  intranet.agency.lab
-127.0.0.1  agency.gov.sg
-127.0.0.1  intranet.agency.gov.sg
-127.0.0.1  public.agency.gov.sg
-127.0.0.1  esvc.agency.gov.sg
+# 127.0.0.1  agency.gov.sg
+# 127.0.0.1  intranet.agency.gov.sg
+# 127.0.0.1  public.agency.gov.sg
+# 127.0.0.1  esvc.agency.gov.sg
 
 127.0.0.1  intranet.local
 127.0.0.1  public.local
